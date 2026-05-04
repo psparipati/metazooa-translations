@@ -6112,25 +6112,6 @@
     "name_ru": "паук-павлин"
   },
   {
-    "nodeId": 177283,
-    "scientific_name": "Birgus latro",
-    "name": "coconut crab",
-    "divisionId": 1,
-    "name_es": "cangrejo de los cocoteros",
-    "name_fr": "crabe de cocotier",
-    "name_hu": "pálmatolvaj",
-    "name_it": "granchio del cocco",
-    "name_pt": "caranguejo-dos-coqueiros",
-    "name_ca": "cranc del coco",
-    "name_ko": "야자집게",
-    "name_de": "Palmendieb",
-    "name_uk": "пальмовий злодій",
-    "name_tr": "hindistan cevizi yengeci",
-    "name_nl": "klapperdief",
-    "name_cs": "krab kokosový",
-    "name_ru": "пальмовый вор"
-  },
-  {
     "nodeId": 2815683,
     "scientific_name": "Phyllium letiranti",
     "name": "leaf insect",
