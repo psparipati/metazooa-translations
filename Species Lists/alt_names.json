@@ -1097,6 +1097,7 @@
   { "language": "hu", "name": "muréna", "alts": ["muréna angolna"] },
   { "language": "hu", "name": "laposhal", "alts": ["lepényhal"] },
   { "language": "hu", "name": "álkaszáspók", "alts": ["pincepók"] },
+  { "language": "hu", "name": "pelikán", "alts": ["gödény"] },
   { "language": "hu", "name": "sárgabarack", "alts": ["kajszibarack"] },
   { "language": "hu", "name": "hajdina", "alts": ["pohánka", "tatárbúza"] },
   { "language": "hu", "name": "manióka", "alts": ["tápióka", "kasszáva"] },
