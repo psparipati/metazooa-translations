@@ -15,7 +15,8 @@
     "name_tr": "deniz anemonu",
     "name_nl": "zeeanemoon",
     "name_cs": "sasanka",
-    "name_ru": "анемона"
+    "name_ru": "анемона",
+    "name_pl": "ukwiał"
   },
   {
     "nodeId": 7022,
@@ -33,7 +34,8 @@
     "name_tr": "dal böceği",
     "name_nl": "wandelende tak",
     "name_cs": "pakobylka",
-    "name_ru": "палочник"
+    "name_ru": "палочник",
+    "name_pl": "patyczak"
   },
   {
     "nodeId": 7051,
@@ -51,7 +53,8 @@
     "name_tr": "ateş böceği",
     "name_nl": "vuurvlieg",
     "name_cs": "světluška",
-    "name_ru": "светляк"
+    "name_ru": "светляк",
+    "name_pl": "świetlik"
   },
   {
     "nodeId": 7091,
@@ -69,7 +72,8 @@
     "name_tr": "ipek böceği",
     "name_nl": "zijderups",
     "name_cs": "Bourec morušový",
-    "name_ru": "шелкопряд"
+    "name_ru": "шелкопряд",
+    "name_pl": "jedwabnik"
   },
   {
     "nodeId": 7159,
@@ -87,7 +91,8 @@
     "name_tr": "sivrisinek",
     "name_nl": "mug",
     "name_cs": "komár",
-    "name_ru": "комар"
+    "name_ru": "комар",
+    "name_pl": "komar"
   },
   {
     "nodeId": 7227,
@@ -105,7 +110,8 @@
     "name_tr": "meyve sineği",
     "name_nl": "fruitvlieg",
     "name_cs": "Octomilka obecná",
-    "name_ru": "плодовая мушка"
+    "name_ru": "плодовая мушка",
+    "name_pl": "muszka owocówka"
   },
   {
     "nodeId": 7370,
@@ -123,7 +129,8 @@
     "name_tr": "karasinek",
     "name_nl": "huisvlieg",
     "name_cs": "Moucha domácí",
-    "name_ru": "муха"
+    "name_ru": "муха",
+    "name_pl": "mucha domowa"
   },
   {
     "nodeId": 7445,
@@ -141,7 +148,8 @@
     "name_tr": "eşek arısı",
     "name_nl": "hornaar",
     "name_cs": "sršeň",
-    "name_ru": "шершень"
+    "name_ru": "шершень",
+    "name_pl": "szerszeń"
   },
   {
     "nodeId": 7460,
@@ -159,7 +167,8 @@
     "name_tr": "bal arısı",
     "name_nl": "honingbij",
     "name_cs": "včela medonosná",
-    "name_ru": "пчела"
+    "name_ru": "пчела",
+    "name_pl": "pszczoła miodna"
   },
   {
     "nodeId": 7604,
@@ -177,7 +186,8 @@
     "name_tr": "deniz yıldızı",
     "name_nl": "zeester",
     "name_cs": "hvězdice",
-    "name_ru": "морская звезда"
+    "name_ru": "морская звезда",
+    "name_pl": "rozgwiazda"
   },
   {
     "nodeId": 7957,
@@ -195,7 +205,8 @@
     "name_tr": "japon balığı",
     "name_nl": "goudvis",
     "name_cs": "zlatá rybka",
-    "name_ru": "золотая рыбка"
+    "name_ru": "золотая рыбка",
+    "name_pl": "złota rybka"
   },
   {
     "nodeId": 7962,
@@ -213,7 +224,8 @@
     "name_tr": "sazan balığı",
     "name_nl": "karper",
     "name_cs": "kapr",
-    "name_ru": "карп"
+    "name_ru": "карп",
+    "name_pl": "karp"
   },
   {
     "nodeId": 7998,
@@ -231,7 +243,8 @@
     "name_tr": "kedi balığı",
     "name_nl": "meerval",
     "name_cs": "sumec",
-    "name_ru": "сом"
+    "name_ru": "сом",
+    "name_pl": "sum"
   },
   {
     "nodeId": 8022,
@@ -249,7 +262,8 @@
     "name_tr": "alabalık",
     "name_nl": "forel",
     "name_cs": "pstruh",
-    "name_ru": "форель"
+    "name_ru": "форель",
+    "name_pl": "pstrąg"
   },
   {
     "nodeId": 8030,
@@ -267,7 +281,8 @@
     "name_tr": "somon balığı",
     "name_nl": "zalm",
     "name_cs": "losos",
-    "name_ru": "лосось"
+    "name_ru": "лосось",
+    "name_pl": "łosoś"
   },
   {
     "nodeId": 8049,
@@ -285,7 +300,8 @@
     "name_tr": "atlantik morinası",
     "name_nl": "kabeljauw",
     "name_cs": "treska",
-    "name_ru": "треска"
+    "name_ru": "треска",
+    "name_pl": "dorsz"
   },
   {
     "nodeId": 8245,
@@ -303,7 +319,8 @@
     "name_tr": "kılıç balığı",
     "name_nl": "zwaardvis",
     "name_cs": "mečoun",
-    "name_ru": "рыба-меч"
+    "name_ru": "рыба-меч",
+    "name_pl": "włócznik"
   },
   {
     "nodeId": 8296,
@@ -321,7 +338,8 @@
     "name_tr": "su semenderi",
     "name_nl": "axolotl",
     "name_cs": "axolotl",
-    "name_ru": "аксолотль"
+    "name_ru": "аксолотль",
+    "name_pl": "aksolotl"
   },
   {
     "nodeId": 8384,
@@ -339,7 +357,8 @@
     "name_tr": "siğilli kurbağa",
     "name_nl": "pad",
     "name_cs": "ropucha",
-    "name_ru": "жаба"
+    "name_ru": "жаба",
+    "name_pl": "ropucha szara"
   },
   {
     "nodeId": 8400,
@@ -357,7 +376,8 @@
     "name_tr": "amerikan boğa kurbağası",
     "name_nl": "brulkikker",
     "name_cs": "skokan volský",
-    "name_ru": "лягушка-бык"
+    "name_ru": "лягушка-бык",
+    "name_pl": "żaba byk"
   },
   {
     "nodeId": 8496,
@@ -375,7 +395,8 @@
     "name_tr": "amerikan aligatoru",
     "name_nl": "alligator",
     "name_cs": "aligátor",
-    "name_ru": "аллигатор"
+    "name_ru": "аллигатор",
+    "name_pl": "aligator"
   },
   {
     "nodeId": 8502,
@@ -393,7 +414,8 @@
     "name_tr": "timsah",
     "name_nl": "krokodil",
     "name_cs": "krokodýl",
-    "name_ru": "крокодил"
+    "name_ru": "крокодил",
+    "name_pl": "krokodyl"
   },
   {
     "nodeId": 8688,
@@ -411,7 +433,8 @@
     "name_tr": "deniz yılanı",
     "name_nl": "zeeslang",
     "name_cs": "mořský had",
-    "name_ru": "морская змея"
+    "name_ru": "морская змея",
+    "name_pl": "wąż morski"
   },
   {
     "nodeId": 8790,
@@ -429,7 +452,8 @@
     "name_tr": "emu",
     "name_nl": "emoe",
     "name_cs": "emu",
-    "name_ru": "эму"
+    "name_ru": "эму",
+    "name_pl": "emu"
   },
   {
     "nodeId": 8801,
@@ -447,7 +471,8 @@
     "name_tr": "deve kuşu",
     "name_nl": "struisvogel",
     "name_cs": "pštros",
-    "name_ru": "страус"
+    "name_ru": "страус",
+    "name_pl": "struś"
   },
   {
     "nodeId": 8853,
@@ -465,7 +490,8 @@
     "name_tr": "kaz",
     "name_nl": "Canadese gans",
     "name_cs": "husa",
-    "name_ru": "гусь"
+    "name_ru": "гусь",
+    "name_pl": "gęś"
   },
   {
     "nodeId": 8869,
@@ -483,7 +509,8 @@
     "name_tr": "kuğu",
     "name_nl": "knobbelzwaan",
     "name_cs": "labuť",
-    "name_ru": "лебедь"
+    "name_ru": "лебедь",
+    "name_pl": "łabędź"
   },
   {
     "nodeId": 8954,
@@ -501,7 +528,8 @@
     "name_tr": "doğan",
     "name_nl": "valk",
     "name_cs": "sokol",
-    "name_ru": "сокол"
+    "name_ru": "сокол",
+    "name_pl": "sokół wędrowny"
   },
   {
     "nodeId": 33614,
@@ -519,7 +547,8 @@
     "name_tr": "kara akbaba",
     "name_nl": "zwarte gier",
     "name_cs": "černý sup",
-    "name_ru": "стервятник"
+    "name_ru": "стервятник",
+    "name_pl": "sępnik czarny"
   },
   {
     "nodeId": 9031,
@@ -537,7 +566,8 @@
     "name_tr": "tavuk",
     "name_nl": "kip",
     "name_cs": "kuře",
-    "name_ru": "курица"
+    "name_ru": "курица",
+    "name_pl": "kura"
   },
   {
     "nodeId": 9042,
@@ -555,7 +585,8 @@
     "name_tr": "sülün",
     "name_nl": "fazant",
     "name_cs": "bažant",
-    "name_ru": "фазан"
+    "name_ru": "фазан",
+    "name_pl": "bażant"
   },
   {
     "nodeId": 34924,
@@ -573,7 +604,8 @@
     "name_tr": "saksağan",
     "name_nl": "ekster",
     "name_cs": "Straka",
-    "name_ru": "сорока"
+    "name_ru": "сорока",
+    "name_pl": "sroka"
   },
   {
     "nodeId": 9187,
@@ -591,7 +623,8 @@
     "name_tr": "karatavuk",
     "name_nl": "merel",
     "name_cs": "kos",
-    "name_ru": "дрозд"
+    "name_ru": "дрозд",
+    "name_pl": "kos"
   },
   {
     "nodeId": 9233,
@@ -609,7 +642,8 @@
     "name_tr": "imparator penguen",
     "name_nl": "keizerspinguin",
     "name_cs": "tučňák císařský",
-    "name_ru": "императорский пингвин"
+    "name_ru": "императорский пингвин",
+    "name_pl": "pingwin cesarski"
   },
   {
     "nodeId": 9258,
@@ -627,7 +661,8 @@
     "name_tr": "ornitorenk",
     "name_nl": "vogelbekdier",
     "name_cs": "ptakopysk",
-    "name_ru": "утконос"
+    "name_ru": "утконос",
+    "name_pl": "dziobak"
   },
   {
     "nodeId": 9261,
@@ -645,7 +680,8 @@
     "name_tr": "kısa burunlu dikenli karıncayiyen",
     "name_nl": "mierenegel",
     "name_cs": "Ježura",
-    "name_ru": "ехидна"
+    "name_ru": "ехидна",
+    "name_pl": "kolczatka"
   },
   {
     "nodeId": 9365,
@@ -663,7 +699,8 @@
     "name_tr": "kirpi",
     "name_nl": "egel",
     "name_cs": "ježek",
-    "name_ru": "ёж"
+    "name_ru": "ёж",
+    "name_pl": "jeż"
   },
   {
     "nodeId": 9430,
@@ -681,7 +718,8 @@
     "name_tr": "vampir yarasa",
     "name_nl": "vampiervleermuis",
     "name_cs": "upíří netopýr",
-    "name_ru": "летучая мышь"
+    "name_ru": "летучая мышь",
+    "name_pl": "nietoperz wampir"
   },
   {
     "nodeId": 9542,
@@ -699,7 +737,8 @@
     "name_tr": "makak maymunu",
     "name_nl": "makaak",
     "name_cs": "makak",
-    "name_ru": "макака"
+    "name_ru": "макака",
+    "name_pl": "makak"
   },
   {
     "nodeId": 9561,
@@ -717,7 +756,8 @@
     "name_tr": "mandril",
     "name_nl": "mandril",
     "name_cs": "mandril",
-    "name_ru": "мандрил"
+    "name_ru": "мандрил",
+    "name_pl": "mandryl"
   },
   {
     "nodeId": 9593,
@@ -735,7 +775,8 @@
     "name_tr": "goril",
     "name_nl": "gorilla",
     "name_cs": "gorila",
-    "name_ru": "гориллаТ"
+    "name_ru": "гориллаТ",
+    "name_pl": "goryl"
   },
   {
     "nodeId": 9597,
@@ -753,7 +794,8 @@
     "name_tr": "bonobo",
     "name_nl": "bonobo",
     "name_cs": "bonobo",
-    "name_ru": "бонобо"
+    "name_ru": "бонобо",
+    "name_pl": "bonobo"
   },
   {
     "nodeId": 9598,
@@ -771,7 +813,8 @@
     "name_tr": "şempanze",
     "name_nl": "chimpansee",
     "name_cs": "šimpanz",
-    "name_ru": "шимпанзе"
+    "name_ru": "шимпанзе",
+    "name_pl": "szympans"
   },
   {
     "nodeId": 9601,
@@ -789,7 +832,8 @@
     "name_tr": "orangutan",
     "name_nl": "orang-oetan",
     "name_cs": "orangutan",
-    "name_ru": "орангутанг"
+    "name_ru": "орангутанг",
+    "name_pl": "orangutan"
   },
   {
     "nodeId": 9614,
@@ -807,7 +851,8 @@
     "name_tr": "kır kurdu",
     "name_nl": "coyote",
     "name_cs": "kojot",
-    "name_ru": "койот"
+    "name_ru": "койот",
+    "name_pl": "kojot"
   },
   {
     "nodeId": 9627,
@@ -825,7 +870,8 @@
     "name_tr": "kızıl tilki",
     "name_nl": "vos",
     "name_cs": "červená liška",
-    "name_ru": "лиса"
+    "name_ru": "лиса",
+    "name_pl": "lis"
   },
   {
     "nodeId": 9643,
@@ -843,7 +889,8 @@
     "name_tr": "kara ayı",
     "name_nl": "zwarte beer",
     "name_cs": "černý medvěd",
-    "name_ru": "чёрный медведь"
+    "name_ru": "чёрный медведь",
+    "name_pl": "niedźwiedź czarny"
   },
   {
     "nodeId": 9644,
@@ -861,7 +908,8 @@
     "name_tr": "boz ayı",
     "name_nl": "bruine beer",
     "name_cs": "medvěd hnědý",
-    "name_ru": "бурый медведь"
+    "name_ru": "бурый медведь",
+    "name_pl": "niedźwiedź brunatny"
   },
   {
     "nodeId": 9646,
@@ -879,7 +927,8 @@
     "name_tr": "dev panda",
     "name_nl": "reuzenpanda",
     "name_cs": "velká panda",
-    "name_ru": "большая панда"
+    "name_ru": "большая панда",
+    "name_pl": "panda wielka"
   },
   {
     "nodeId": 9649,
@@ -897,7 +946,8 @@
     "name_tr": "kızıl panda",
     "name_nl": "rode panda",
     "name_cs": "panda červená",
-    "name_ru": "красная панда"
+    "name_ru": "красная панда",
+    "name_pl": "pandka ruda"
   },
   {
     "nodeId": 9654,
@@ -915,7 +965,8 @@
     "name_tr": "rakun",
     "name_nl": "wasbeer",
     "name_cs": "mýval",
-    "name_ru": "енот"
+    "name_ru": "енот",
+    "name_pl": "szop pracz"
   },
   {
     "nodeId": 9666,
@@ -933,7 +984,8 @@
     "name_tr": "Avrasya gelinciği",
     "name_nl": "nerts",
     "name_cs": "norek",
-    "name_ru": "норка"
+    "name_ru": "норка",
+    "name_pl": "norka"
   },
   {
     "nodeId": 9678,
@@ -951,7 +1003,8 @@
     "name_tr": "sırtlan",
     "name_nl": "hyena",
     "name_cs": "hyena",
-    "name_ru": "гиена"
+    "name_ru": "гиена",
+    "name_pl": "hiena"
   },
   {
     "nodeId": 9689,
@@ -969,7 +1022,8 @@
     "name_tr": "aslan",
     "name_nl": "leeuw",
     "name_cs": "lev",
-    "name_ru": "лев"
+    "name_ru": "лев",
+    "name_pl": "lew"
   },
   {
     "nodeId": 9690,
@@ -987,7 +1041,8 @@
     "name_tr": "jaguar",
     "name_nl": "jaguar",
     "name_cs": "jaguár",
-    "name_ru": "ягуар"
+    "name_ru": "ягуар",
+    "name_pl": "jaguar"
   },
   {
     "nodeId": 9691,
@@ -1005,7 +1060,8 @@
     "name_tr": "leopar",
     "name_nl": "luipaard",
     "name_cs": "leopard",
-    "name_ru": "леопардТ"
+    "name_ru": "леопардТ",
+    "name_pl": "lampart"
   },
   {
     "nodeId": 9694,
@@ -1023,7 +1079,8 @@
     "name_tr": "kaplan",
     "name_nl": "tijger",
     "name_cs": "tygr",
-    "name_ru": "тигр"
+    "name_ru": "тигр",
+    "name_pl": "tygrys"
   },
   {
     "nodeId": 9696,
@@ -1041,7 +1098,8 @@
     "name_tr": "puma",
     "name_nl": "poema",
     "name_cs": "puma",
-    "name_ru": "пума"
+    "name_ru": "пума",
+    "name_pl": "puma"
   },
   {
     "nodeId": 9704,
@@ -1059,7 +1117,8 @@
     "name_tr": "deniz aslanı",
     "name_nl": "zeeleeuw",
     "name_cs": "lachtan",
-    "name_ru": "морской лев"
+    "name_ru": "морской лев",
+    "name_pl": "uchatka kalifornijska"
   },
   {
     "nodeId": 9707,
@@ -1077,7 +1136,8 @@
     "name_tr": "mors",
     "name_nl": "walrus",
     "name_cs": "mrož",
-    "name_ru": "морж"
+    "name_ru": "морж",
+    "name_pl": "mors"
   },
   {
     "nodeId": 9711,
@@ -1095,7 +1155,8 @@
     "name_tr": "fok",
     "name_nl": "zeehond",
     "name_cs": "tuleň",
-    "name_ru": "тюлень"
+    "name_ru": "тюлень",
+    "name_pl": "foka szara"
   },
   {
     "nodeId": 9749,
@@ -1113,7 +1174,8 @@
     "name_tr": "beyaz balina",
     "name_nl": "beloega",
     "name_cs": "velryba beluga",
-    "name_ru": "белуха"
+    "name_ru": "белуха",
+    "name_pl": "białucha"
   },
   {
     "nodeId": 9755,
@@ -1131,7 +1193,8 @@
     "name_tr": "ispermeçet balinası",
     "name_nl": "potvis",
     "name_cs": "vorvaň",
-    "name_ru": "кашалот"
+    "name_ru": "кашалот",
+    "name_pl": "kaszalot"
   },
   {
     "nodeId": 9773,
@@ -1149,7 +1212,8 @@
     "name_tr": "kambur balina",
     "name_nl": "bultrug",
     "name_cs": "keporkak",
-    "name_ru": "горбатый кит"
+    "name_ru": "горбатый кит",
+    "name_pl": "humbak"
   },
   {
     "nodeId": 9778,
@@ -1167,7 +1231,8 @@
     "name_tr": "manati",
     "name_nl": "lamantijn",
     "name_cs": "kapustňák",
-    "name_ru": "ламантин"
+    "name_ru": "ламантин",
+    "name_pl": "manat"
   },
   {
     "nodeId": 9785,
@@ -1185,7 +1250,8 @@
     "name_tr": "Afrika fili",
     "name_nl": "olifant",
     "name_cs": "slon",
-    "name_ru": "слон"
+    "name_ru": "слон",
+    "name_pl": "słoń afrykański"
   },
   {
     "nodeId": 9796,
@@ -1203,7 +1269,8 @@
     "name_tr": "at",
     "name_nl": "paard",
     "name_cs": "kůň",
-    "name_ru": "лошадь"
+    "name_ru": "лошадь",
+    "name_pl": "koń"
   },
   {
     "nodeId": 9807,
@@ -1221,7 +1288,8 @@
     "name_tr": "gergedan",
     "name_nl": "neushoorn",
     "name_cs": "nosorožec",
-    "name_ru": "носорог"
+    "name_ru": "носорог",
+    "name_pl": "nosorożec"
   },
   {
     "nodeId": 9818,
@@ -1239,7 +1307,8 @@
     "name_tr": "yer domuzu",
     "name_nl": "aardvarken",
     "name_cs": "Aardvark",
-    "name_ru": "трубкозуб"
+    "name_ru": "трубкозуб",
+    "name_pl": "mrównik"
   },
   {
     "nodeId": 9838,
@@ -1257,7 +1326,8 @@
     "name_tr": "deve",
     "name_nl": "dromedaris",
     "name_cs": "velbloud",
-    "name_ru": "верблюд"
+    "name_ru": "верблюд",
+    "name_pl": "wielbłąd"
   },
   {
     "nodeId": 9894,
@@ -1275,7 +1345,8 @@
     "name_tr": "zürafa",
     "name_nl": "giraffe",
     "name_cs": "žirafa",
-    "name_ru": "жираф"
+    "name_ru": "жираф",
+    "name_pl": "żyrafa"
   },
   {
     "nodeId": 9901,
@@ -1293,7 +1364,8 @@
     "name_tr": "bizon",
     "name_nl": "bison",
     "name_cs": "bizon",
-    "name_ru": "бизон"
+    "name_ru": "бизон",
+    "name_pl": "bizon"
   },
   {
     "nodeId": 9913,
@@ -1311,7 +1383,8 @@
     "name_tr": "sığır",
     "name_nl": "rund",
     "name_cs": "Tur domácí",
-    "name_ru": "корова"
+    "name_ru": "корова",
+    "name_pl": "bydło domowe"
   },
   {
     "nodeId": 9940,
@@ -1329,7 +1402,8 @@
     "name_tr": "koyun",
     "name_nl": "schaap",
     "name_cs": "ovce",
-    "name_ru": "овца"
+    "name_ru": "овца",
+    "name_pl": "owca"
   },
   {
     "nodeId": 9974,
@@ -1347,7 +1421,8 @@
     "name_tr": "pangolin",
     "name_nl": "schubdier",
     "name_cs": "pangolin",
-    "name_ru": "панголин"
+    "name_ru": "панголин",
+    "name_pl": "pangolin"
   },
   {
     "nodeId": 10036,
@@ -1365,7 +1440,8 @@
     "name_tr": "hamster",
     "name_nl": "hamster",
     "name_cs": "křeček",
-    "name_ru": "хомяк"
+    "name_ru": "хомяк",
+    "name_pl": "chomik"
   },
   {
     "nodeId": 10047,
@@ -1383,7 +1459,8 @@
     "name_tr": "gerbil",
     "name_nl": "gerbil",
     "name_cs": "pískomil",
-    "name_ru": "песчанка"
+    "name_ru": "песчанка",
+    "name_pl": "myszoskoczek"
   },
   {
     "nodeId": 10090,
@@ -1401,7 +1478,8 @@
     "name_tr": "fare",
     "name_nl": "muis",
     "name_cs": "myš",
-    "name_ru": "мышь"
+    "name_ru": "мышь",
+    "name_pl": "mysz"
   },
   {
     "nodeId": 10138,
@@ -1419,7 +1497,8 @@
     "name_tr": "oklu kirpi",
     "name_nl": "stekelvarken",
     "name_cs": "dikobraz",
-    "name_ru": "дикобраз"
+    "name_ru": "дикобраз",
+    "name_pl": "jeżozwierz"
   },
   {
     "nodeId": 12983,
@@ -1437,7 +1516,8 @@
     "name_tr": "kakadu",
     "name_nl": "kaketoe",
     "name_cs": "kakadu",
-    "name_ru": "какаду"
+    "name_ru": "какаду",
+    "name_pl": "kakadu"
   },
   {
     "nodeId": 13037,
@@ -1455,7 +1535,8 @@
     "name_tr": "kral kelebeği",
     "name_nl": "monarchvlinder",
     "name_cs": "motýl monarcha",
-    "name_ru": "бабочка монарх"
+    "name_ru": "бабочка монарх",
+    "name_pl": "motyl monarcha"
   },
   {
     "nodeId": 13125,
@@ -1473,7 +1554,8 @@
     "name_tr": "bayağı vaşak",
     "name_nl": "lynx",
     "name_cs": "rys",
-    "name_ru": "рысь"
+    "name_ru": "рысь",
+    "name_pl": "ryś euroazjatycki"
   },
   {
     "nodeId": 13180,
@@ -1491,7 +1573,8 @@
     "name_tr": "sultan papağanı",
     "name_nl": "valkparkiet",
     "name_cs": "korela",
-    "name_ru": "корелла"
+    "name_ru": "корелла",
+    "name_pl": "nimfa"
   },
   {
     "nodeId": 13397,
@@ -1509,7 +1592,8 @@
     "name_tr": "büyük beyaz köpek balığı",
     "name_nl": "witte haai",
     "name_cs": "velký bílý žralok",
-    "name_ru": "белая акула"
+    "name_ru": "белая акула",
+    "name_pl": "rekin ludojad"
   },
   {
     "nodeId": 13686,
@@ -1527,7 +1611,8 @@
     "name_tr": "ateş karıncası",
     "name_nl": "vuurmier",
     "name_cs": "ohnivý mravenec",
-    "name_ru": "огненный муравей"
+    "name_ru": "огненный муравей",
+    "name_pl": "mrówka ognista"
   },
   {
     "nodeId": 27675,
@@ -1545,7 +1630,8 @@
     "name_tr": "tembel hayvan",
     "name_nl": "tweevingerige luiaard",
     "name_cs": "lenochod dvouprstý",
-    "name_ru": "двупалый ленивец"
+    "name_ru": "двупалый ленивец",
+    "name_pl": "leniwiec"
   },
   {
     "nodeId": 27794,
@@ -1563,7 +1649,8 @@
     "name_tr": "deniz kaplumbağası",
     "name_nl": "zeeschildpad",
     "name_cs": "mořská želva",
-    "name_ru": "морская черепаха"
+    "name_ru": "морская черепаха",
+    "name_pl": "żółw morski"
   },
   {
     "nodeId": 28701,
@@ -1581,7 +1668,8 @@
     "name_tr": "deniz papağanı",
     "name_nl": "papegaaiduiker",
     "name_cs": "papuchalka",
-    "name_ru": "тупик"
+    "name_ru": "тупик",
+    "name_pl": "maskonur"
   },
   {
     "nodeId": 28727,
@@ -1599,7 +1687,8 @@
     "name_tr": "alakarga",
     "name_nl": "blauwe gaai",
     "name_cs": "modrá sojka",
-    "name_ru": "сойка"
+    "name_ru": "сойка",
+    "name_pl": "modrosójka"
   },
   {
     "nodeId": 29073,
@@ -1617,7 +1706,8 @@
     "name_tr": "kutup ayısı",
     "name_nl": "ijsbeer",
     "name_cs": "lední medvěd",
-    "name_ru": "белый медведь"
+    "name_ru": "белый медведь",
+    "name_pl": "niedźwiedź polarny"
   },
   {
     "nodeId": 29139,
@@ -1635,7 +1725,8 @@
     "name_tr": "vombat",
     "name_nl": "wombat",
     "name_cs": "wombat",
-    "name_ru": "вомбат"
+    "name_ru": "вомбат",
+    "name_pl": "wombat"
   },
   {
     "nodeId": 29159,
@@ -1653,7 +1744,8 @@
     "name_tr": "istiridye",
     "name_nl": "oester",
     "name_cs": "ústřice",
-    "name_ru": "устрица"
+    "name_ru": "устрица",
+    "name_pl": "ostryga"
   },
   {
     "nodeId": 30213,
@@ -1671,7 +1763,8 @@
     "name_tr": "yaban arısı",
     "name_nl": "wesp",
     "name_cs": "vosa",
-    "name_ru": "оса"
+    "name_ru": "оса",
+    "name_pl": "osa"
   },
   {
     "nodeId": 30538,
@@ -1689,7 +1782,8 @@
     "name_tr": "alpaka",
     "name_nl": "alpaca",
     "name_cs": "alpaka",
-    "name_ru": "альпака"
+    "name_ru": "альпака",
+    "name_pl": "alpaka"
   },
   {
     "nodeId": 30548,
@@ -1707,7 +1801,8 @@
     "name_tr": "kokarca",
     "name_nl": "stinkdier",
     "name_cs": "skunk",
-    "name_ru": "скунс"
+    "name_ru": "скунс",
+    "name_pl": "skunks"
   },
   {
     "nodeId": 30554,
@@ -1725,7 +1820,8 @@
     "name_tr": "porsuk",
     "name_nl": "das",
     "name_cs": "jezevec",
-    "name_ru": "барсук"
+    "name_ru": "барсук",
+    "name_pl": "borsuk"
   },
   {
     "nodeId": 32536,
@@ -1743,7 +1839,8 @@
     "name_tr": "çita",
     "name_nl": "jachtluipaard",
     "name_cs": "gepard",
-    "name_ru": "гепард"
+    "name_ru": "гепард",
+    "name_pl": "gepard"
   },
   {
     "nodeId": 32538,
@@ -1761,7 +1858,8 @@
     "name_tr": "oselo",
     "name_nl": "ocelot",
     "name_cs": "ocelot",
-    "name_ru": "оцелот"
+    "name_ru": "оцелот",
+    "name_pl": "ocelot"
   },
   {
     "nodeId": 34882,
@@ -1779,7 +1877,8 @@
     "name_tr": "deniz samuru",
     "name_nl": "zeeotter",
     "name_cs": "mořská vydra",
-    "name_ru": "выдра"
+    "name_ru": "выдра",
+    "name_pl": "wydra morska"
   },
   {
     "nodeId": 36312,
@@ -1797,7 +1896,8 @@
     "name_tr": "semender",
     "name_nl": "salamander",
     "name_cs": "mlok",
-    "name_ru": "саламандра"
+    "name_ru": "саламандра",
+    "name_pl": "salamandra"
   },
   {
     "nodeId": 37032,
@@ -1815,7 +1915,8 @@
     "name_tr": "mirket",
     "name_nl": "stokstaartje",
     "name_cs": "surikata",
-    "name_ru": "сурикат"
+    "name_ru": "сурикат",
+    "name_pl": "surykatka"
   },
   {
     "nodeId": 37189,
@@ -1833,7 +1934,8 @@
     "name_tr": "dev samur antilobu",
     "name_nl": "antilope",
     "name_cs": "antilopa",
-    "name_ru": "антилопа"
+    "name_ru": "антилопа",
+    "name_pl": "antylopa"
   },
   {
     "nodeId": 37295,
@@ -1851,7 +1953,8 @@
     "name_tr": "kapuçin maymunu",
     "name_nl": "kapucijnaap",
     "name_cs": "kapucín",
-    "name_ru": "капуцин"
+    "name_ru": "капуцин",
+    "name_pl": "kapucynka"
   },
   {
     "nodeId": 37610,
@@ -1869,7 +1972,8 @@
     "name_tr": "kızılgerdan",
     "name_nl": "roodborst",
     "name_cs": "červenka",
-    "name_ru": "зарянка"
+    "name_ru": "зарянка",
+    "name_pl": "rudzik"
   },
   {
     "nodeId": 37751,
@@ -1887,7 +1991,8 @@
     "name_tr": "gazel",
     "name_nl": "gazelle",
     "name_cs": "gazela",
-    "name_ru": "газель"
+    "name_ru": "газель",
+    "name_pl": "gazela"
   },
   {
     "nodeId": 38626,
@@ -1905,7 +2010,8 @@
     "name_tr": "koala",
     "name_nl": "koala",
     "name_cs": "koala",
-    "name_ru": "коала"
+    "name_ru": "коала",
+    "name_pl": "koala"
   },
   {
     "nodeId": 40151,
@@ -1923,7 +2029,8 @@
     "name_tr": "narval",
     "name_nl": "narwal",
     "name_cs": "narval",
-    "name_ru": "нарвал"
+    "name_ru": "нарвал",
+    "name_pl": "narwal"
   },
   {
     "nodeId": 42514,
@@ -1941,7 +2048,8 @@
     "name_tr": "pirana",
     "name_nl": "piranha",
     "name_cs": "piraňa",
-    "name_ru": "пиранья"
+    "name_ru": "пиранья",
+    "name_pl": "pirania"
   },
   {
     "nodeId": 48849,
@@ -1959,7 +2067,8 @@
     "name_tr": "serçe",
     "name_nl": "huismus",
     "name_cs": "vrabec",
-    "name_ru": "воробей"
+    "name_ru": "воробей",
+    "name_pl": "wróbel"
   },
   {
     "nodeId": 9375,
@@ -1977,7 +2086,8 @@
     "name_tr": "köstebek",
     "name_nl": "mol",
     "name_cs": "krtek",
-    "name_ru": "крот"
+    "name_ru": "крот",
+    "name_pl": "kret"
   },
   {
     "nodeId": 51338,
@@ -1995,7 +2105,8 @@
     "name_tr": "kunduz",
     "name_nl": "bever",
     "name_cs": "bobr",
-    "name_ru": "бобёр"
+    "name_ru": "бобёр",
+    "name_pl": "bóbr"
   },
   {
     "nodeId": 51908,
@@ -2013,7 +2124,8 @@
     "name_tr": "muhabbet kuşu",
     "name_nl": "parkiet",
     "name_cs": "andulka",
-    "name_ru": "попугай"
+    "name_ru": "попугай",
+    "name_pl": "papuga konura"
   },
   {
     "nodeId": 51949,
@@ -2031,7 +2143,8 @@
     "name_tr": "zehirli ok kurbağası",
     "name_nl": "pijlgifkikker",
     "name_cs": "jedovatá žába",
-    "name_ru": "древолаз"
+    "name_ru": "древолаз",
+    "name_pl": "drzewołaz"
   },
   {
     "nodeId": 52644,
@@ -2049,7 +2162,8 @@
     "name_tr": "kel kartal",
     "name_nl": "zeearend",
     "name_cs": "orel bělohlavý",
-    "name_ru": "белоголовый орлан"
+    "name_ru": "белоголовый орлан",
+    "name_pl": "orzeł bielik"
   },
   {
     "nodeId": 3370370,
@@ -2067,7 +2181,8 @@
     "name_tr": "uzun kuyruklu gelincik",
     "name_nl": "wezel",
     "name_cs": "lasička",
-    "name_ru": "ласка"
+    "name_ru": "ласка",
+    "name_pl": "łasica"
   },
   {
     "nodeId": 56313,
@@ -2085,7 +2200,8 @@
     "name_tr": "peçeli baykuş",
     "name_nl": "kerkuil",
     "name_cs": "sova pálená",
-    "name_ru": "сипуха"
+    "name_ru": "сипуха",
+    "name_pl": "płomykówka"
   },
   {
     "nodeId": 56781,
@@ -2103,7 +2219,8 @@
     "name_tr": "kuzgun",
     "name_nl": "raaf",
     "name_cs": "havran",
-    "name_ru": "ворон"
+    "name_ru": "ворон",
+    "name_pl": "kruk"
   },
   {
     "nodeId": 57247,
@@ -2121,7 +2238,8 @@
     "name_tr": "gri papağan",
     "name_nl": "grijze roodstaartpapegaai",
     "name_cs": "šedý papoušek",
-    "name_ru": "жако"
+    "name_ru": "жако",
+    "name_pl": "żako"
   },
   {
     "nodeId": 60713,
@@ -2139,7 +2257,8 @@
     "name_tr": "alaycı kuş",
     "name_nl": "spotlijster",
     "name_cs": "drozd",
-    "name_ru": "пересмешник"
+    "name_ru": "пересмешник",
+    "name_pl": "przedrzeźniacz"
   },
   {
     "nodeId": 61384,
@@ -2157,7 +2276,8 @@
     "name_tr": "doru vaşak",
     "name_nl": "rode lynx",
     "name_cs": "bobcat",
-    "name_ru": "рыжая рысь"
+    "name_ru": "рыжая рысь",
+    "name_pl": "ryś rudy"
   },
   {
     "nodeId": 9700,
@@ -2175,7 +2295,8 @@
     "name_tr": "firavun faresi",
     "name_nl": "mangoest",
     "name_cs": "mangusta",
-    "name_ru": "мангуст"
+    "name_ru": "мангуст",
+    "name_pl": "mangusta"
   },
   {
     "nodeId": 61853,
@@ -2193,7 +2314,8 @@
     "name_tr": "gibon",
     "name_nl": "gibbon",
     "name_cs": "gibon",
-    "name_ru": "гиббон"
+    "name_ru": "гиббон",
+    "name_pl": "gibon"
   },
   {
     "nodeId": 76717,
@@ -2211,7 +2333,8 @@
     "name_tr": "su samuru",
     "name_nl": "rivierotter",
     "name_cs": "vydra říční",
-    "name_ru": "речная выдра"
+    "name_ru": "речная выдра",
+    "name_pl": "wydra rzeczna"
   },
   {
     "nodeId": 79627,
@@ -2229,7 +2352,8 @@
     "name_tr": "makaroni pengueni",
     "name_nl": "macaronipinguin",
     "name_cs": "Tučňák žlutorohý",
-    "name_ru": "золотоволосый пингвин"
+    "name_ru": "золотоволосый пингвин",
+    "name_pl": "pingwin złotoczuby"
   },
   {
     "nodeId": 84074,
@@ -2247,7 +2371,8 @@
     "name_tr": "karıncayiyen",
     "name_nl": "miereneter",
     "name_cs": "mravenečník",
-    "name_ru": "муравьед"
+    "name_ru": "муравьед",
+    "name_pl": "mrówkojad"
   },
   {
     "nodeId": 85066,
@@ -2265,7 +2390,8 @@
     "name_tr": "karga",
     "name_nl": "kraai",
     "name_cs": "vrána",
-    "name_ru": "ворона"
+    "name_ru": "ворона",
+    "name_pl": "wrona"
   },
   {
     "nodeId": 89248,
@@ -2283,7 +2409,8 @@
     "name_tr": "zebra",
     "name_nl": "zebra",
     "name_cs": "zebra",
-    "name_ru": "зебра"
+    "name_ru": "зебра",
+    "name_pl": "zebra"
   },
   {
     "nodeId": 89462,
@@ -2301,7 +2428,8 @@
     "name_tr": "Asya mandası",
     "name_nl": "waterbuffel",
     "name_cs": "vodní buvol",
-    "name_ru": "буйвол"
+    "name_ru": "буйвол",
+    "name_pl": "wół domowy"
   },
   {
     "nodeId": 30640,
@@ -2319,7 +2447,8 @@
     "name_tr": "sincap",
     "name_nl": "grijze eekhoorn",
     "name_cs": "veverka",
-    "name_ru": "белка"
+    "name_ru": "белка",
+    "name_pl": "wiewiórka"
   },
   {
     "nodeId": 254707,
@@ -2337,7 +2466,8 @@
     "name_tr": "uçan sincap",
     "name_nl": "vliegende eekhoorn",
     "name_cs": "poletucha",
-    "name_ru": "белка-летяга"
+    "name_ru": "белка-летяга",
+    "name_pl": "latająca wiewiórka"
   },
   {
     "nodeId": 100937,
@@ -2355,7 +2485,8 @@
     "name_tr": "babun",
     "name_nl": "baviaan",
     "name_cs": "pavián",
-    "name_ru": "павиан"
+    "name_ru": "павиан",
+    "name_pl": "pawian"
   },
   {
     "nodeId": 104421,
@@ -2373,7 +2504,8 @@
     "name_tr": "marangoz karınca",
     "name_nl": "schubmier",
     "name_cs": "tesař mravenec",
-    "name_ru": "муравей"
+    "name_ru": "муравей",
+    "name_pl": "mrówka gmachówka"
   },
   {
     "nodeId": 109280,
@@ -2391,7 +2523,8 @@
     "name_tr": "denizatı",
     "name_nl": "zeepaard",
     "name_cs": "mořský koník",
-    "name_ru": "морской конёк"
+    "name_ru": "морской конёк",
+    "name_pl": "konik morski"
   },
   {
     "nodeId": 132113,
@@ -2409,7 +2542,8 @@
     "name_tr": "bombus arısı",
     "name_nl": "hommel",
     "name_cs": "čmelák",
-    "name_ru": "шмель"
+    "name_ru": "шмель",
+    "name_pl": "trzmiel"
   },
   {
     "nodeId": 135631,
@@ -2427,7 +2561,8 @@
     "name_tr": "kumru",
     "name_nl": "Verreauxs duif",
     "name_cs": "hrdlička",
-    "name_ru": "горлица"
+    "name_ru": "горлица",
+    "name_pl": "sierpówka"
   },
   {
     "nodeId": 158814,
@@ -2445,7 +2580,8 @@
     "name_tr": "kutu kaplumbağası",
     "name_nl": "doosschildpad",
     "name_cs": "krabicová želva",
-    "name_ru": "коробчатая черепаха"
+    "name_ru": "коробчатая черепаха",
+    "name_pl": "żółw błotny"
   },
   {
     "nodeId": 161767,
@@ -2463,7 +2599,8 @@
     "name_tr": "palyaço balığı",
     "name_nl": "anemoonvis",
     "name_cs": "klaun",
-    "name_ru": "рыба-клоун"
+    "name_ru": "рыба-клоун",
+    "name_pl": "błazenek"
   },
   {
     "nodeId": 176946,
@@ -2481,7 +2618,8 @@
     "name_tr": "burma pitonu",
     "name_nl": "tijgerpython",
     "name_cs": "krajta barmská",
-    "name_ru": "бирманский питон"
+    "name_ru": "бирманский питон",
+    "name_pl": "pyton"
   },
   {
     "nodeId": 218467,
@@ -2499,7 +2637,8 @@
     "name_tr": "ağaç kabuğu akrebi",
     "name_nl": "schorsschorpioen",
     "name_cs": "Štír štíhloocasý",
-    "name_ru": "скорпион"
+    "name_ru": "скорпион",
+    "name_pl": "skorpion nadrzewny"
   },
   {
     "nodeId": 37607,
@@ -2517,7 +2656,8 @@
     "name_tr": "ispinoz",
     "name_nl": "goudvink",
     "name_cs": "pěnkava",
-    "name_ru": "снегирь"
+    "name_ru": "снегирь",
+    "name_pl": "gil"
   },
   {
     "nodeId": 262124,
@@ -2535,7 +2675,8 @@
     "name_tr": "güvercin",
     "name_nl": "vruchtenduif",
     "name_cs": "holub",
-    "name_ru": "голубь"
+    "name_ru": "голубь",
+    "name_pl": "gołąb maoryski"
   },
   {
     "nodeId": 301843,
@@ -2553,7 +2694,8 @@
     "name_tr": "geko",
     "name_nl": "gekko",
     "name_cs": "gekončík",
-    "name_ru": "геккон"
+    "name_ru": "геккон",
+    "name_pl": "gekon"
   },
   {
     "nodeId": 308060,
@@ -2571,7 +2713,8 @@
     "name_tr": "kivi",
     "name_nl": "kiwi",
     "name_cs": "kiwi",
-    "name_ru": "киви"
+    "name_ru": "киви",
+    "name_pl": "kiwi"
   },
   {
     "nodeId": 340076,
@@ -2589,7 +2732,8 @@
     "name_tr": "armadillo",
     "name_nl": "gordeldier",
     "name_cs": "pásovec",
-    "name_ru": "броненосец"
+    "name_ru": "броненосец",
+    "name_pl": "pancernik"
   },
   {
     "nodeId": 371907,
@@ -2607,7 +2751,8 @@
     "name_tr": "kar baykuşu",
     "name_nl": "sneeuwuil",
     "name_cs": "sova sněžná",
-    "name_ru": "полярная сова"
+    "name_ru": "полярная сова",
+    "name_pl": "sowa śnieżna"
   },
   {
     "nodeId": 383689,
@@ -2625,7 +2770,8 @@
     "name_tr": "bülbül",
     "name_nl": "nachtegaal",
     "name_cs": "slavík",
-    "name_ru": "соловей"
+    "name_ru": "соловей",
+    "name_pl": "słowik"
   },
   {
     "nodeId": 494514,
@@ -2643,7 +2789,8 @@
     "name_tr": "kar tilkisi",
     "name_nl": "poolvos",
     "name_cs": "polární liška",
-    "name_ru": "полярная лиса"
+    "name_ru": "полярная лиса",
+    "name_pl": "lis polarny"
   },
   {
     "nodeId": 505845,
@@ -2661,7 +2808,8 @@
     "name_tr": "meyve yarasası",
     "name_nl": "vliegende hond",
     "name_cs": "kaloň",
-    "name_ru": "кожан"
+    "name_ru": "кожан",
+    "name_pl": "acerodon grzywiasty"
   },
   {
     "nodeId": 1037346,
@@ -2679,7 +2827,8 @@
     "name_tr": "şahin",
     "name_nl": "sperwer",
     "name_cs": "jestřáb",
-    "name_ru": "ястреб"
+    "name_ru": "ястреб",
+    "name_pl": "krogulec"
   },
   {
     "nodeId": 6610,
@@ -2697,7 +2846,8 @@
     "name_tr": "mürekkep balığı",
     "name_nl": "zeekat",
     "name_cs": "sépie obecná",
-    "name_ru": "каракатица"
+    "name_ru": "каракатица",
+    "name_pl": "mątwa"
   },
   {
     "nodeId": 102866,
@@ -2715,7 +2865,8 @@
     "name_tr": "mavi halkalı ahtapot",
     "name_nl": "blauwring-octopus",
     "name_cs": "chobotnice modrokroužková",
-    "name_ru": "синекольчатый осьминог"
+    "name_ru": "синекольчатый осьминог",
+    "name_pl": "ośmiornica hapalochlaena"
   },
   {
     "nodeId": 256136,
@@ -2733,7 +2884,8 @@
     "name_tr": "dev kalamar",
     "name_nl": "reuzeninktvis",
     "name_cs": "Krakatice obrovská",
-    "name_ru": "гигантский кальмар"
+    "name_ru": "гигантский кальмар",
+    "name_pl": "kałamarnica olbrzymia"
   },
   {
     "nodeId": 260533,
@@ -2751,7 +2903,8 @@
     "name_tr": "tarantula",
     "name_nl": "tarantula",
     "name_cs": "tarantule",
-    "name_ru": "тарантул"
+    "name_ru": "тарантул",
+    "name_pl": "ptasznik"
   },
   {
     "nodeId": 679132,
@@ -2769,7 +2922,8 @@
     "name_tr": "avcı örümceği",
     "name_nl": "jachtkrabspin",
     "name_cs": "pokoutník",
-    "name_ru": "паук-охотник"
+    "name_ru": "паук-охотник",
+    "name_pl": "spachacz"
   },
   {
     "nodeId": 6925,
@@ -2787,7 +2941,8 @@
     "name_tr": "kara dul",
     "name_nl": "zwarte weduwe",
     "name_cs": "černá vdova",
-    "name_ru": "чёрная вдова"
+    "name_ru": "чёрная вдова",
+    "name_pl": "czarna wdowa"
   },
   {
     "nodeId": 8517,
@@ -2805,7 +2960,8 @@
     "name_tr": "iguana",
     "name_nl": "leguaan",
     "name_cs": "leguán",
-    "name_ru": "игуана"
+    "name_ru": "игуана",
+    "name_pl": "legwan"
   },
   {
     "nodeId": 91907,
@@ -2823,7 +2979,8 @@
     "name_tr": "bukalemun",
     "name_nl": "kameleon",
     "name_cs": "chameleón",
-    "name_ru": "хамелеон"
+    "name_ru": "хамелеон",
+    "name_pl": "kameleon"
   },
   {
     "nodeId": 6145,
@@ -2841,7 +2998,8 @@
     "name_tr": "denizanası",
     "name_nl": "oorkwal",
     "name_cs": "medúza",
-    "name_ru": "медуза"
+    "name_ru": "медуза",
+    "name_pl": "meduza"
   },
   {
     "nodeId": 6584,
@@ -2859,7 +3017,8 @@
     "name_tr": "deniz tarağı",
     "name_nl": "surfmossel",
     "name_cs": "mořská škeble",
-    "name_ru": "морской моллюск"
+    "name_ru": "морской моллюск",
+    "name_pl": "małża"
   },
   {
     "nodeId": 6707,
@@ -2877,7 +3036,8 @@
     "name_tr": "ıstakoz",
     "name_nl": "kreeft",
     "name_cs": "humr",
-    "name_ru": "лобстер"
+    "name_ru": "лобстер",
+    "name_pl": "homar"
   },
   {
     "nodeId": 102976,
@@ -2895,7 +3055,8 @@
     "name_tr": "kril",
     "name_nl": "krill",
     "name_cs": "krill",
-    "name_ru": "криль"
+    "name_ru": "криль",
+    "name_pl": "kryl"
   },
   {
     "nodeId": 6536,
@@ -2913,7 +3074,8 @@
     "name_tr": "salyangoz",
     "name_nl": "slak",
     "name_cs": "šnek",
-    "name_ru": "улитка"
+    "name_ru": "улитка",
+    "name_pl": "ślimak winniczek"
   },
   {
     "nodeId": 2067768,
@@ -2931,7 +3093,8 @@
     "name_tr": "sümüklüböcek",
     "name_nl": "bananenslak",
     "name_cs": "banánový slimák",
-    "name_ru": "банановый слизень"
+    "name_ru": "банановый слизень",
+    "name_pl": "ślimak bananowy"
   },
   {
     "nodeId": 7671,
@@ -2949,7 +3112,8 @@
     "name_tr": "deniz kestanesi",
     "name_nl": "zee-egel",
     "name_cs": "mořský ježek",
-    "name_ru": "морской ёж"
+    "name_ru": "морской ёж",
+    "name_pl": "jeżowiec"
   },
   {
     "nodeId": 242715,
@@ -2967,7 +3131,8 @@
     "name_tr": "beyin mercanı",
     "name_nl": "hersenkoraal",
     "name_cs": "mozkový korál",
-    "name_ru": "коралл-мозговик"
+    "name_ru": "коралл-мозговик",
+    "name_pl": "koralowiec"
   },
   {
     "nodeId": 168775,
@@ -2985,7 +3150,8 @@
     "name_tr": "fizalya",
     "name_nl": "Portugees oorlogsschip",
     "name_cs": "Měchýřovka portugalská",
-    "name_ru": "португальский кораблик"
+    "name_ru": "португальский кораблик",
+    "name_pl": "żeglarz portugalski"
   },
   {
     "nodeId": 195334,
@@ -3003,7 +3169,8 @@
     "name_tr": "çekiç başlı köpekbalığı",
     "name_nl": "hamerhaai",
     "name_cs": "žralok kladivoun",
-    "name_ru": "акула-молот"
+    "name_ru": "акула-молот",
+    "name_pl": "głowomłot"
   },
   {
     "nodeId": 9833,
@@ -3021,7 +3188,8 @@
     "name_tr": "hipopotam",
     "name_nl": "nijlpaard",
     "name_cs": "hroch",
-    "name_ru": "бегемот"
+    "name_ru": "бегемот",
+    "name_pl": "hipopotam"
   },
   {
     "nodeId": 7507,
@@ -3039,7 +3207,8 @@
     "name_tr": "peygamberdevesi",
     "name_nl": "bidsprinkhaan",
     "name_cs": "kudlanka nábožná",
-    "name_ru": "богомол"
+    "name_ru": "богомол",
+    "name_pl": "modliszka"
   },
   {
     "nodeId": 35669,
@@ -3057,7 +3226,8 @@
     "name_tr": "martı",
     "name_nl": "zilvermeeuw",
     "name_cs": "racek",
-    "name_ru": "чайка"
+    "name_ru": "чайка",
+    "name_pl": "mewa"
   },
   {
     "nodeId": 6687,
@@ -3075,7 +3245,8 @@
     "name_tr": "kaplan karidesi",
     "name_nl": "tijgergarnaal",
     "name_cs": "tygří kreveta",
-    "name_ru": "тигровая креветка"
+    "name_ru": "тигровая креветка",
+    "name_pl": "krewetka tygrysia"
   },
   {
     "nodeId": 51876,
@@ -3093,7 +3264,8 @@
     "name_tr": "anakonda",
     "name_nl": "anaconda",
     "name_cs": "anakonda",
-    "name_ru": "анаконда"
+    "name_ru": "анаконда",
+    "name_pl": "anakonda"
   },
   {
     "nodeId": 56350,
@@ -3111,7 +3283,8 @@
     "name_tr": "kerkenez",
     "name_nl": "torenvalk",
     "name_cs": "poštolka",
-    "name_ru": "пустельга"
+    "name_ru": "пустельга",
+    "name_pl": "pustułka"
   },
   {
     "nodeId": 9739,
@@ -3129,7 +3302,8 @@
     "name_tr": "yunus",
     "name_nl": "dolfijn",
     "name_cs": "delfín",
-    "name_ru": "дельфин"
+    "name_ru": "дельфин",
+    "name_pl": "delfin"
   },
   {
     "nodeId": 166335,
@@ -3147,7 +3321,8 @@
     "name_tr": "bok böceği",
     "name_nl": "mestkever",
     "name_cs": "Hovnivál",
-    "name_ru": "жук-навозник"
+    "name_ru": "жук-навозник",
+    "name_pl": "żuk gnojowy"
   },
   {
     "nodeId": 9321,
@@ -3165,7 +3340,8 @@
     "name_tr": "kanguru",
     "name_nl": "kangaroe",
     "name_cs": "klokan",
-    "name_ru": "кенгуру"
+    "name_ru": "кенгуру",
+    "name_pl": "kangur"
   },
   {
     "nodeId": 95723,
@@ -3183,7 +3359,8 @@
     "name_tr": "tukan",
     "name_nl": "toekan",
     "name_cs": "tukan",
-    "name_ru": "тукан"
+    "name_ru": "тукан",
+    "name_pl": "tukan"
   },
   {
     "nodeId": 9844,
@@ -3201,7 +3378,8 @@
     "name_tr": "lama",
     "name_nl": "lama",
     "name_cs": "lama",
-    "name_ru": "лама"
+    "name_ru": "лама",
+    "name_pl": "lama"
   },
   {
     "nodeId": 8924,
@@ -3219,7 +3397,8 @@
     "name_tr": "and kondoru",
     "name_nl": "condor",
     "name_cs": "kondor",
-    "name_ru": "кондор"
+    "name_ru": "кондор",
+    "name_pl": "kondor"
   },
   {
     "nodeId": 435638,
@@ -3237,7 +3416,8 @@
     "name_tr": "flamingo",
     "name_nl": "flamingo",
     "name_cs": "plameňák",
-    "name_ru": "фламинго"
+    "name_ru": "фламинго",
+    "name_pl": "flaming"
   },
   {
     "nodeId": 9995,
@@ -3255,7 +3435,8 @@
     "name_tr": "dağ sıçanı",
     "name_nl": "marmot",
     "name_cs": "sysel",
-    "name_ru": "сурок"
+    "name_ru": "сурок",
+    "name_pl": "świstak"
   },
   {
     "nodeId": 8005,
@@ -3273,7 +3454,8 @@
     "name_tr": "elektrikli yılan balığı",
     "name_nl": "sidderaal",
     "name_cs": "elektrický úhoř",
-    "name_ru": "электрический угорь"
+    "name_ru": "электрический угорь",
+    "name_pl": "węgorz elektryczny"
   },
   {
     "nodeId": 8624,
@@ -3291,7 +3473,8 @@
     "name_tr": "kara mamba",
     "name_nl": "zwarte mamba",
     "name_cs": "černá mamba",
-    "name_ru": "чёрная мамба"
+    "name_ru": "чёрная мамба",
+    "name_pl": "czarna mamba"
   },
   {
     "nodeId": 61221,
@@ -3309,7 +3492,8 @@
     "name_tr": "komodo ejderi",
     "name_nl": "komodovaraan",
     "name_cs": "varan komodský",
-    "name_ru": "комодский варан"
+    "name_ru": "комодский варан",
+    "name_pl": "waran z komodo"
   },
   {
     "nodeId": 9305,
@@ -3327,7 +3511,8 @@
     "name_tr": "tazmanya canavarı",
     "name_nl": "Tasmaanse duivel",
     "name_cs": "tasmánský ďábel",
-    "name_ru": "тасманский дьявол"
+    "name_ru": "тасманский дьявол",
+    "name_pl": "diabeł tasmański"
   },
   {
     "nodeId": 9447,
@@ -3345,7 +3530,8 @@
     "name_tr": "lemur",
     "name_nl": "ringstaartmaki",
     "name_cs": "lemur",
-    "name_ru": "лемур"
+    "name_ru": "лемур",
+    "name_pl": "lemur"
   },
   {
     "nodeId": 7010,
@@ -3363,7 +3549,8 @@
     "name_tr": "çöl çekirgesi",
     "name_nl": "treksprinkhaan",
     "name_cs": "saranče",
-    "name_ru": "саранча"
+    "name_ru": "саранча",
+    "name_pl": "szarańcza"
   },
   {
     "nodeId": 7009,
@@ -3381,7 +3568,8 @@
     "name_tr": "çekirge",
     "name_nl": "veldsprinkhaan",
     "name_cs": "kobylka",
-    "name_ru": "кузнечик"
+    "name_ru": "кузнечик",
+    "name_pl": "pasikonik"
   },
   {
     "nodeId": 58607,
@@ -3399,7 +3587,8 @@
     "name_tr": "cırcırböceği",
     "name_nl": "krekel",
     "name_cs": "cvrček",
-    "name_ru": "сверчок"
+    "name_ru": "сверчок",
+    "name_pl": "świerszcz"
   },
   {
     "nodeId": 1574408,
@@ -3417,7 +3606,8 @@
     "name_tr": "geyik",
     "name_nl": "wapiti",
     "name_cs": "jelen wapiti",
-    "name_ru": "вапити"
+    "name_ru": "вапити",
+    "name_pl": "jeleń"
   },
   {
     "nodeId": 9870,
@@ -3435,7 +3625,8 @@
     "name_tr": "karibu",
     "name_nl": "rendier",
     "name_cs": "karibu",
-    "name_ru": "северный олень"
+    "name_ru": "северный олень",
+    "name_pl": "renifer"
   },
   {
     "nodeId": 70868,
@@ -3453,7 +3644,8 @@
     "name_tr": "baraküda",
     "name_nl": "barracuda",
     "name_cs": "barakuda",
-    "name_ru": "барракуда"
+    "name_ru": "барракуда",
+    "name_pl": "barrakuda"
   },
   {
     "nodeId": 41139,
@@ -3471,7 +3663,8 @@
     "name_tr": "uğur böceği",
     "name_nl": "lieveheersbeestje",
     "name_cs": "slunéčko sedmitečné",
-    "name_ru": "божья коровка"
+    "name_ru": "божья коровка",
+    "name_pl": "biedronka"
   },
   {
     "nodeId": 63978,
@@ -3489,7 +3682,8 @@
     "name_tr": "Atlas güvesi",
     "name_nl": "atlasvlinder",
     "name_cs": "atlasová můra",
-    "name_ru": "павлиноглазка атлас"
+    "name_ru": "павлиноглазка атлас",
+    "name_pl": "ćma"
   },
   {
     "nodeId": 36987,
@@ -3507,7 +3701,8 @@
     "name_tr": "termit",
     "name_nl": "termiet",
     "name_cs": "termit",
-    "name_ru": "термит"
+    "name_ru": "термит",
+    "name_pl": "termit"
   },
   {
     "nodeId": 6978,
@@ -3525,7 +3720,8 @@
     "name_tr": "hamam böceği",
     "name_nl": "kakkerlak",
     "name_cs": "šváb",
-    "name_ru": "таракан"
+    "name_ru": "таракан",
+    "name_pl": "karaluch"
   },
   {
     "nodeId": 13068,
@@ -3543,7 +3739,8 @@
     "name_tr": "kulağakaçan",
     "name_nl": "oorworm",
     "name_cs": "škvor",
-    "name_ru": "уховертка"
+    "name_ru": "уховертка",
+    "name_pl": "skorek"
   },
   {
     "nodeId": 1646243,
@@ -3561,7 +3758,8 @@
     "name_tr": "yusufçuk",
     "name_nl": "libelle",
     "name_cs": "vážka",
-    "name_ru": "стрекоза"
+    "name_ru": "стрекоза",
+    "name_pl": "ważka"
   },
   {
     "nodeId": 8554,
@@ -3579,7 +3777,8 @@
     "name_tr": "gila canavarı",
     "name_nl": "gilamonster",
     "name_cs": "Korovec jedovatý",
-    "name_ru": "ядозуб"
+    "name_ru": "ядозуб",
+    "name_pl": "heloderma arizońska"
   },
   {
     "nodeId": 10149,
@@ -3597,7 +3796,8 @@
     "name_tr": "kapibara",
     "name_nl": "capybara",
     "name_cs": "kapybara",
-    "name_ru": "капибара"
+    "name_ru": "капибара",
+    "name_pl": "kapibara"
   },
   {
     "nodeId": 1983395,
@@ -3615,7 +3815,8 @@
     "name_tr": "şeytan vatozu",
     "name_nl": "reuzenmanta",
     "name_cs": "Manta",
-    "name_ru": "скат манта"
+    "name_ru": "скат манта",
+    "name_pl": "manta"
   },
   {
     "nodeId": 2484686,
@@ -3633,7 +3834,8 @@
     "name_tr": "irina",
     "name_nl": "pijlstaartrog",
     "name_cs": "Rejnok",
-    "name_ru": "скат-орляк"
+    "name_ru": "скат-орляк",
+    "name_pl": "płaszczka"
   },
   {
     "nodeId": 1129476,
@@ -3651,7 +3853,8 @@
     "name_tr": "hermit yengeci",
     "name_nl": "heremietkrab",
     "name_cs": "krab poustevníka",
-    "name_ru": "рак-отшельник"
+    "name_ru": "рак-отшельник",
+    "name_pl": "krab pustelnik"
   },
   {
     "nodeId": 342437,
@@ -3669,7 +3872,8 @@
     "name_tr": "balon balığı",
     "name_nl": "kogelvis",
     "name_cs": "pufferfish",
-    "name_ru": "иглобрюх"
+    "name_ru": "иглобрюх",
+    "name_pl": "ryba rozdymka"
   },
   {
     "nodeId": 9049,
@@ -3687,7 +3891,8 @@
     "name_tr": "tavus kuşu",
     "name_nl": "pauw",
     "name_cs": "páv",
-    "name_ru": "павлин"
+    "name_ru": "павлин",
+    "name_pl": "paw"
   },
   {
     "nodeId": 571810,
@@ -3705,7 +3910,8 @@
     "name_tr": "deniz hıyarı",
     "name_nl": "zeekomkommer",
     "name_cs": "mořská okurka",
-    "name_ru": "морской огурец"
+    "name_ru": "морской огурец",
+    "name_pl": "ogórek morski"
   },
   {
     "nodeId": 9852,
@@ -3723,7 +3929,8 @@
     "name_tr": "sığın",
     "name_nl": "eland",
     "name_cs": "los",
-    "name_ru": "лось"
+    "name_ru": "лось",
+    "name_pl": "łoś"
   },
   {
     "nodeId": 13347,
@@ -3741,7 +3948,8 @@
     "name_tr": "tespih böceği",
     "name_nl": "pissebed",
     "name_cs": "svinka",
-    "name_ru": "мокрица"
+    "name_ru": "мокрица",
+    "name_pl": "kulanka"
   },
   {
     "nodeId": 110520,
@@ -3759,7 +3967,8 @@
     "name_tr": "kaya midyesi",
     "name_nl": "zeepok",
     "name_cs": "vilej",
-    "name_ru": "морской жёлудь"
+    "name_ru": "морской жёлудь",
+    "name_pl": "pąkla"
   },
   {
     "nodeId": 8574,
@@ -3777,7 +3986,8 @@
     "name_tr": "boa yılanı",
     "name_nl": "boa constrictor",
     "name_cs": "hroznýš",
-    "name_ru": "удав"
+    "name_ru": "удав",
+    "name_pl": "boa"
   },
   {
     "nodeId": 30521,
@@ -3795,7 +4005,8 @@
     "name_tr": "yak",
     "name_nl": "yak",
     "name_cs": "jak",
-    "name_ru": "як"
+    "name_ru": "як",
+    "name_pl": "jak"
   },
   {
     "nodeId": 10141,
@@ -3813,7 +4024,8 @@
     "name_tr": "gine domuzu",
     "name_nl": "cavia",
     "name_cs": "morče",
-    "name_ru": "морская свинка"
+    "name_ru": "морская свинка",
+    "name_pl": "świnka morska"
   },
   {
     "nodeId": 8697,
@@ -3831,7 +4043,8 @@
     "name_tr": "engerek",
     "name_nl": "hoornadder",
     "name_cs": "zmije",
-    "name_ru": "гадюка"
+    "name_ru": "гадюка",
+    "name_pl": "żmija"
   },
   {
     "nodeId": 66189,
@@ -3849,7 +4062,8 @@
     "name_tr": "kaplumbağa",
     "name_nl": "reuzenschildpad",
     "name_cs": "želva",
-    "name_ru": "черепаха"
+    "name_ru": "черепаха",
+    "name_pl": "żółw słoniowy"
   },
   {
     "nodeId": 8475,
@@ -3867,7 +4081,8 @@
     "name_tr": "yılansı kapan kaplumbağa",
     "name_nl": "bijtschildpad",
     "name_cs": "chňapající želva",
-    "name_ru": "каймановая черепаха"
+    "name_ru": "каймановая черепаха",
+    "name_pl": "żółw jaszczurowaty"
   },
   {
     "nodeId": 8730,
@@ -3885,7 +4100,8 @@
     "name_tr": "çıngıraklı yılan",
     "name_nl": "ratelslang",
     "name_cs": "chřestýš",
-    "name_ru": "гремучая змея"
+    "name_ru": "гремучая змея",
+    "name_pl": "grzechotnik"
   },
   {
     "nodeId": 9268,
@@ -3903,7 +4119,8 @@
     "name_tr": "keseli sıçan",
     "name_nl": "opossum",
     "name_cs": "Vačice opossum",
-    "name_ru": "опоссум"
+    "name_ru": "опоссум",
+    "name_pl": "opos północny"
   },
   {
     "nodeId": 1247135,
@@ -3921,7 +4138,8 @@
     "name_tr": "herkül böceği",
     "name_nl": "Herculeskever",
     "name_cs": "roháč",
-    "name_ru": "жук-геркулес"
+    "name_ru": "жук-геркулес",
+    "name_pl": "chrząszcz"
   },
   {
     "nodeId": 6421,
@@ -3939,7 +4157,8 @@
     "name_tr": "sülük",
     "name_nl": "bloedzuiger",
     "name_cs": "pijavice",
-    "name_ru": "пиявка"
+    "name_ru": "пиявка",
+    "name_pl": "pijawka"
   },
   {
     "nodeId": 8074,
@@ -3957,7 +4176,8 @@
     "name_tr": "fener balığı",
     "name_nl": "zeeduivel",
     "name_cs": "ďas",
-    "name_ru": "удильщик"
+    "name_ru": "удильщик",
+    "name_pl": "żabnica"
   },
   {
     "nodeId": 6398,
@@ -3975,7 +4195,8 @@
     "name_tr": "solucan",
     "name_nl": "regenworm",
     "name_cs": "žížala",
-    "name_ru": "дождевой червь"
+    "name_ru": "дождевой червь",
+    "name_pl": "dżdżownica"
   },
   {
     "nodeId": 1351942,
@@ -3993,7 +4214,8 @@
     "name_tr": "kum doları",
     "name_nl": "zanddollar",
     "name_cs": "pískový dolar",
-    "name_ru": "песочный доллар"
+    "name_ru": "песочный доллар",
+    "name_pl": "dolar piaskowy"
   },
   {
     "nodeId": 6550,
@@ -4011,7 +4233,8 @@
     "name_tr": "midye",
     "name_nl": "mossel",
     "name_cs": "mušle",
-    "name_ru": "мидия"
+    "name_ru": "мидия",
+    "name_pl": "omułek"
   },
   {
     "nodeId": 120888,
@@ -4029,7 +4252,8 @@
     "name_tr": "peygamberdevesi karidesi",
     "name_nl": "bidsprinkhaankreeft",
     "name_cs": "krevety kudlanky",
-    "name_ru": "креветка-богомол"
+    "name_ru": "креветка-богомол",
+    "name_pl": "rawka błazen"
   },
   {
     "nodeId": 8665,
@@ -4047,7 +4271,8 @@
     "name_tr": "kral kobra",
     "name_nl": "koningscobra",
     "name_cs": "kobra královská",
-    "name_ru": "королевская кобра"
+    "name_ru": "королевская кобра",
+    "name_pl": "kobra królewska"
   },
   {
     "nodeId": 291247,
@@ -4065,7 +4290,8 @@
     "name_tr": "kırkayak",
     "name_nl": "miljoenpoot",
     "name_cs": "mnohonožka",
-    "name_ru": "многоножка"
+    "name_ru": "многоножка",
+    "name_pl": "wij"
   },
   {
     "nodeId": 8081,
@@ -4083,7 +4309,8 @@
     "name_tr": "lepistes",
     "name_nl": "guppy",
     "name_cs": "Živorodka duhová",
-    "name_ru": "гуппи"
+    "name_ru": "гуппи",
+    "name_pl": "gupik"
   },
   {
     "nodeId": 9333,
@@ -4101,7 +4328,8 @@
     "name_tr": "fırça kuyruklu keseli sıçan",
     "name_nl": "koeskoes",
     "name_cs": "vačice",
-    "name_ru": "поссум"
+    "name_ru": "поссум",
+    "name_pl": "opos australijski"
   },
   {
     "nodeId": 1678817,
@@ -4119,7 +4347,8 @@
     "name_tr": "mayıs sineği",
     "name_nl": "eendagsvlieg",
     "name_cs": "jepice",
-    "name_ru": "подёнка"
+    "name_ru": "подёнка",
+    "name_pl": "jętka"
   },
   {
     "nodeId": 29022,
@@ -4137,7 +4366,8 @@
     "name_tr": "ev çıyanı",
     "name_nl": "spinduizendpoot",
     "name_cs": "Strašník dalmatský",
-    "name_ru": "сороконожка"
+    "name_ru": "сороконожка",
+    "name_pl": "stonoga"
   },
   {
     "nodeId": 45474,
@@ -4155,7 +4385,8 @@
     "name_tr": "çizgili sincap",
     "name_nl": "grondeekhoorn",
     "name_cs": "Čipmank",
-    "name_ru": "бурундук"
+    "name_ru": "бурундук",
+    "name_pl": "wiewiórka pręgowiec"
   },
   {
     "nodeId": 8236,
@@ -4173,7 +4404,8 @@
     "name_tr": "ton balığı",
     "name_nl": "tonijn",
     "name_cs": "tuňák",
-    "name_ru": "тунец"
+    "name_ru": "тунец",
+    "name_pl": "tuńczyk żółtopłetwy"
   },
   {
     "nodeId": 190476,
@@ -4191,7 +4423,8 @@
     "name_tr": "kayman",
     "name_nl": "kaaiman",
     "name_cs": "kajman",
-    "name_ru": "кайман"
+    "name_ru": "кайман",
+    "name_pl": "kajman"
   },
   {
     "nodeId": 68724,
@@ -4209,7 +4442,8 @@
     "name_tr": "çakal",
     "name_nl": "jakhals",
     "name_cs": "šakal",
-    "name_ru": "шакал"
+    "name_ru": "шакал",
+    "name_pl": "szakal"
   },
   {
     "nodeId": 7819,
@@ -4227,7 +4461,8 @@
     "name_tr": "kaplan köpek balığı",
     "name_nl": "tijgerhaai",
     "name_cs": "tygří žralok",
-    "name_ru": "тигровая акула"
+    "name_ru": "тигровая акула",
+    "name_pl": "żarłacz tygrysi"
   },
   {
     "nodeId": 57987,
@@ -4245,7 +4480,8 @@
     "name_tr": "goblin köpek balığı",
     "name_nl": "koboldhaai",
     "name_cs": "goblin žralok",
-    "name_ru": "акула-гоблин"
+    "name_ru": "акула-гоблин",
+    "name_pl": "rekin chochlik"
   },
   {
     "nodeId": 267067,
@@ -4263,7 +4499,8 @@
     "name_tr": "dev ahtapot",
     "name_nl": "reuzenoctopus",
     "name_cs": "Chobotnice velká",
-    "name_ru": "гигантский осьминог"
+    "name_ru": "гигантский осьминог",
+    "name_pl": "ośmiornica olbrzymia"
   },
   {
     "nodeId": 34570,
@@ -4281,7 +4518,8 @@
     "name_tr": "bigfin kalamarı",
     "name_nl": "pijlinktvis",
     "name_cs": "chobotnice velkoploutvá",
-    "name_ru": "кальмар"
+    "name_ru": "кальмар",
+    "name_pl": "kałamarnica wielkopłetwa"
   },
   {
     "nodeId": 34578,
@@ -4299,7 +4537,8 @@
     "name_tr": "notilus",
     "name_nl": "nautilus",
     "name_cs": "nautilus",
-    "name_ru": "наутилус"
+    "name_ru": "наутилус",
+    "name_pl": "łodzik"
   },
   {
     "nodeId": 51359,
@@ -4317,7 +4556,8 @@
     "name_tr": "ağaçkakan",
     "name_nl": "helmspecht",
     "name_cs": "datel",
-    "name_ru": "дятел"
+    "name_ru": "дятел",
+    "name_pl": "dzięcioł"
   },
   {
     "nodeId": 2082998,
@@ -4335,7 +4575,8 @@
     "name_tr": "sinekkuşu",
     "name_nl": "kolibrie",
     "name_cs": "kolibřík",
-    "name_ru": "колибри"
+    "name_ru": "колибри",
+    "name_pl": "koliber"
   },
   {
     "nodeId": 52810,
@@ -4353,7 +4594,8 @@
     "name_tr": "kara çaylak",
     "name_nl": "zwarte wouw",
     "name_cs": "Luňák",
-    "name_ru": "чёрный коршун"
+    "name_ru": "чёрный коршун",
+    "name_pl": "kania czarna"
   },
   {
     "nodeId": 43455,
@@ -4371,7 +4613,8 @@
     "name_tr": "hindi akbabası",
     "name_nl": "kalkoengier",
     "name_cs": "kondor krocanovitý",
-    "name_ru": "гриф-индейка"
+    "name_ru": "гриф-индейка",
+    "name_pl": "sępnik różowogłowy"
   },
   {
     "nodeId": 96725,
@@ -4389,7 +4632,8 @@
     "name_tr": "skink",
     "name_nl": "skink",
     "name_cs": "skink",
-    "name_ru": "сцинк"
+    "name_ru": "сцинк",
+    "name_pl": "scynk"
   },
   {
     "nodeId": 212017,
@@ -4407,7 +4651,8 @@
     "name_tr": "su böceği",
     "name_nl": "waterwants",
     "name_cs": "vodní štěnice",
-    "name_ru": "водяной клоп"
+    "name_ru": "водяной клоп",
+    "name_pl": "pluskwa wodna"
   },
   {
     "nodeId": 209230,
@@ -4425,7 +4670,8 @@
     "name_tr": "betta balığı",
     "name_nl": "kempvis",
     "name_cs": "Bojovnice pestrá",
-    "name_ru": "бойцовская рыбка"
+    "name_ru": "бойцовская рыбка",
+    "name_pl": "bojownik"
   },
   {
     "nodeId": 129333,
@@ -4443,7 +4689,8 @@
     "name_tr": "yeşil ağaç pitonu",
     "name_nl": "groene boompython",
     "name_cs": "Krajta zelená",
-    "name_ru": "зелёный древесный питон"
+    "name_ru": "зелёный древесный питон",
+    "name_pl": "pyton"
   },
   {
     "nodeId": 1647984,
@@ -4461,7 +4708,8 @@
     "name_tr": "kemancı yengeç",
     "name_nl": "wenkkrab",
     "name_cs": "krab bojovný",
-    "name_ru": "манящий краб"
+    "name_ru": "манящий краб",
+    "name_pl": "krab uca"
   },
   {
     "nodeId": 9927,
@@ -4479,7 +4727,8 @@
     "name_tr": "Afrika antilobu",
     "name_nl": "gnoe",
     "name_cs": "pakůň",
-    "name_ru": "антилопа гну"
+    "name_ru": "антилопа гну",
+    "name_pl": "gnu"
   },
   {
     "nodeId": 50434,
@@ -4497,7 +4746,8 @@
     "name_tr": "pire",
     "name_nl": "vlo",
     "name_cs": "blecha",
-    "name_ru": "блоха"
+    "name_ru": "блоха",
+    "name_pl": "pchła"
   },
   {
     "nodeId": 7897,
@@ -4515,7 +4765,8 @@
     "name_tr": "coelacanth",
     "name_nl": "coelacant",
     "name_cs": "Latimérie",
-    "name_ru": "латимерия"
+    "name_ru": "латимерия",
+    "name_pl": "latimeria"
   },
   {
     "nodeId": 202113,
@@ -4533,7 +4784,8 @@
     "name_tr": "deniz süngeri",
     "name_nl": "zeespons",
     "name_cs": "mořská houba",
-    "name_ru": "морская губка"
+    "name_ru": "морская губка",
+    "name_pl": "gąbka"
   },
   {
     "nodeId": 8839,
@@ -4551,7 +4803,8 @@
     "name_tr": "ördek",
     "name_nl": "wilde eend",
     "name_cs": "kachna",
-    "name_ru": "кряква"
+    "name_ru": "кряква",
+    "name_pl": "kaczka krzyżówka"
   },
   {
     "nodeId": 9103,
@@ -4569,7 +4822,8 @@
     "name_tr": "hindi",
     "name_nl": "kalkoen",
     "name_cs": "krocan",
-    "name_ru": "индейка"
+    "name_ru": "индейка",
+    "name_pl": "indyk"
   },
   {
     "nodeId": 9606,
@@ -4587,7 +4841,8 @@
     "name_tr": "insan",
     "name_nl": "mens",
     "name_cs": "člověk",
-    "name_ru": "человек"
+    "name_ru": "человек",
+    "name_pl": "człowiek"
   },
   {
     "nodeId": 9612,
@@ -4605,7 +4860,8 @@
     "name_tr": "kurt",
     "name_nl": "wolf",
     "name_cs": "vlk",
-    "name_ru": "волк"
+    "name_ru": "волк",
+    "name_pl": "wilk"
   },
   {
     "nodeId": 9685,
@@ -4623,7 +4879,8 @@
     "name_tr": "kedi",
     "name_nl": "kat",
     "name_cs": "kočka",
-    "name_ru": "кошка"
+    "name_ru": "кошка",
+    "name_pl": "kot"
   },
   {
     "nodeId": 9733,
@@ -4641,7 +4898,8 @@
     "name_tr": "katil balina",
     "name_nl": "orka",
     "name_cs": "kosatka",
-    "name_ru": "косатка"
+    "name_ru": "косатка",
+    "name_pl": "orka"
   },
   {
     "nodeId": 9793,
@@ -4659,7 +4917,8 @@
     "name_tr": "eşek",
     "name_nl": "ezel",
     "name_cs": "osel",
-    "name_ru": "осёл"
+    "name_ru": "осёл",
+    "name_pl": "osioł"
   },
   {
     "nodeId": 9823,
@@ -4677,7 +4936,8 @@
     "name_tr": "domuz",
     "name_nl": "varken",
     "name_cs": "prase",
-    "name_ru": "свинья"
+    "name_ru": "свинья",
+    "name_pl": "dzik"
   },
   {
     "nodeId": 9874,
@@ -4695,7 +4955,8 @@
     "name_tr": "ak kuyruklu geyik",
     "name_nl": "hert",
     "name_cs": "jelen",
-    "name_ru": "олень"
+    "name_ru": "олень",
+    "name_pl": "sarna"
   },
   {
     "nodeId": 9925,
@@ -4713,7 +4974,8 @@
     "name_tr": "keçi",
     "name_nl": "geit",
     "name_cs": "koza",
-    "name_ru": "коза"
+    "name_ru": "коза",
+    "name_pl": "koza"
   },
   {
     "nodeId": 9986,
@@ -4731,7 +4993,8 @@
     "name_tr": "tavşan",
     "name_nl": "konijn",
     "name_cs": "králík",
-    "name_ru": "кролик"
+    "name_ru": "кролик",
+    "name_pl": "królik"
   },
   {
     "nodeId": 27706,
@@ -4749,7 +5012,8 @@
     "name_tr": "levrek",
     "name_nl": "forelbaars",
     "name_cs": "Okounek",
-    "name_ru": "чёрный окунь"
+    "name_ru": "чёрный окунь",
+    "name_pl": "bass"
   },
   {
     "nodeId": 48420,
@@ -4767,7 +5031,8 @@
     "name_tr": "kutup porsuğu",
     "name_nl": "veelvraat",
     "name_cs": "rosomák",
-    "name_ru": "росомаха"
+    "name_ru": "росомаха",
+    "name_pl": "rosomak"
   },
   {
     "nodeId": 51900,
@@ -4785,7 +5050,8 @@
     "name_tr": "sümbül makav",
     "name_nl": "ara",
     "name_cs": "ara",
-    "name_ru": "попугай ара"
+    "name_ru": "попугай ара",
+    "name_pl": "ara"
   },
   {
     "nodeId": 163847,
@@ -4803,7 +5069,8 @@
     "name_tr": "kanarya",
     "name_nl": "kanarie",
     "name_cs": "kanárek",
-    "name_ru": "канарейка"
+    "name_ru": "канарейка",
+    "name_pl": "kanarek"
   },
   {
     "nodeId": 10116,
@@ -4821,7 +5088,8 @@
     "name_tr": "sıçan",
     "name_nl": "rat",
     "name_cs": "krysa",
-    "name_ru": "крыса"
+    "name_ru": "крыса",
+    "name_pl": "szczur"
   },
   {
     "nodeId": 46460,
@@ -4839,7 +5107,8 @@
     "name_tr": "tardigrad",
     "name_nl": "beerdiertje",
     "name_cs": "Želvuška",
-    "name_ru": "тихоходка"
+    "name_ru": "тихоходка",
+    "name_pl": "niesporczak"
   },
   {
     "nodeId": 9771,
@@ -4857,7 +5126,8 @@
     "name_tr": "mavi balina",
     "name_nl": "blauwe vinvis",
     "name_cs": "modrá velryba",
-    "name_ru": "синий кит"
+    "name_ru": "синий кит",
+    "name_pl": "płetwal błękitny"
   },
   {
     "nodeId": 9742,
@@ -4875,7 +5145,8 @@
     "name_tr": "mutur",
     "name_nl": "bruinvis",
     "name_cs": "sviňuchy",
-    "name_ru": "морская свинья"
+    "name_ru": "морская свинья",
+    "name_pl": "morświn"
   },
   {
     "nodeId": 30588,
@@ -4893,7 +5164,8 @@
     "name_tr": "tamarin",
     "name_nl": "leeuwaapje",
     "name_cs": "tamarín",
-    "name_ru": "императорский тамарин"
+    "name_ru": "императорский тамарин",
+    "name_pl": "marmozeta lwia"
   },
   {
     "nodeId": 182253,
@@ -4911,7 +5183,8 @@
     "name_tr": "uluyan maymun",
     "name_nl": "brulaap",
     "name_cs": "vřešťan",
-    "name_ru": "ревун"
+    "name_ru": "ревун",
+    "name_pl": "wyjec"
   },
   {
     "nodeId": 34899,
@@ -4929,7 +5202,8 @@
     "name_tr": "şeker planörü",
     "name_nl": "suikereekhoorn",
     "name_cs": "Vakoveverka létavá",
-    "name_ru": "сумчатая летяга"
+    "name_ru": "сумчатая летяга",
+    "name_pl": "lotopałanka"
   },
   {
     "nodeId": 29067,
@@ -4947,7 +5221,8 @@
     "name_tr": "kinkaju",
     "name_nl": "kinkajoe",
     "name_cs": "Kynkažu",
-    "name_ru": "кинкажу"
+    "name_ru": "кинкажу",
+    "name_pl": "kinkażu"
   },
   {
     "nodeId": 3370412,
@@ -4965,7 +5240,8 @@
     "name_tr": "rakun köpeği",
     "name_nl": "wasbeerhond",
     "name_cs": "psík mývalovitý",
-    "name_ru": "тануки"
+    "name_ru": "тануки",
+    "name_pl": "jenot"
   },
   {
     "nodeId": 9813,
@@ -4983,7 +5259,8 @@
     "name_tr": "daman",
     "name_nl": "klipdas",
     "name_cs": "daman",
-    "name_ru": "даман"
+    "name_ru": "даман",
+    "name_pl": "góralek skalny"
   },
   {
     "nodeId": 9802,
@@ -5001,7 +5278,8 @@
     "name_tr": "tapir",
     "name_nl": "tapir",
     "name_cs": "tapír",
-    "name_ru": "тапир"
+    "name_ru": "тапир",
+    "name_pl": "tapir"
   },
   {
     "nodeId": 10181,
@@ -5019,7 +5297,8 @@
     "name_tr": "çıplak kör fare",
     "name_nl": "naakte molrat",
     "name_cs": "Rypoš lysý",
-    "name_ru": "голый землекоп"
+    "name_ru": "голый землекоп",
+    "name_pl": "golec"
   },
   {
     "nodeId": 45480,
@@ -5037,7 +5316,8 @@
     "name_tr": "çayır köpeği",
     "name_nl": "prairiehond",
     "name_cs": "prérijní pes",
-    "name_ru": "луговая собачка"
+    "name_ru": "луговая собачка",
+    "name_pl": "nieświszczuk"
   },
   {
     "nodeId": 48087,
@@ -5055,7 +5335,8 @@
     "name_tr": "yabani tavşan",
     "name_nl": "haas",
     "name_cs": "zajíc",
-    "name_ru": "заяц"
+    "name_ru": "заяц",
+    "name_pl": "zając"
   },
   {
     "nodeId": 9669,
@@ -5073,7 +5354,8 @@
     "name_tr": "gelincik",
     "name_nl": "fret",
     "name_cs": "fretka",
-    "name_ru": "хорёк"
+    "name_ru": "хорёк",
+    "name_pl": "fretka"
   },
   {
     "nodeId": 10152,
@@ -5091,7 +5373,8 @@
     "name_tr": "chinchilla",
     "name_nl": "chinchilla",
     "name_cs": "činčila",
-    "name_ru": "шиншилла"
+    "name_ru": "шиншилла",
+    "name_pl": "szynszyla"
   },
   {
     "nodeId": 94186,
@@ -5109,7 +5392,8 @@
     "name_tr": "misk kedisi",
     "name_nl": "civetkat",
     "name_cs": "cibetka",
-    "name_ru": "цивета"
+    "name_ru": "цивета",
+    "name_pl": "cyweta"
   },
   {
     "nodeId": 9615,
@@ -5127,7 +5411,8 @@
     "name_tr": "kedi",
     "name_nl": "hond",
     "name_cs": "pes",
-    "name_ru": "собака"
+    "name_ru": "собака",
+    "name_pl": "pies"
   },
   {
     "nodeId": 72542,
@@ -5145,7 +5430,8 @@
     "name_tr": "Alp dağ keçisi",
     "name_nl": "steenbok",
     "name_cs": "kozorožec",
-    "name_ru": "альпийский козёл"
+    "name_ru": "альпийский козёл",
+    "name_pl": "koziorożec"
   },
   {
     "nodeId": 41426,
@@ -5163,7 +5449,8 @@
     "name_tr": "düğmeli domuz",
     "name_nl": "wrattenzwijn",
     "name_cs": "prase bradavičnaté",
-    "name_ru": "бородавочник"
+    "name_ru": "бородавочник",
+    "name_pl": "guziec"
   },
   {
     "nodeId": 8787,
@@ -5181,7 +5468,8 @@
     "name_tr": "tepeli devekuşu",
     "name_nl": "kasuaris",
     "name_cs": "kasuár",
-    "name_ru": "казуар"
+    "name_ru": "казуар",
+    "name_pl": "kazuar"
   },
   {
     "nodeId": 56072,
@@ -5199,7 +5487,8 @@
     "name_tr": "balıkçıl",
     "name_nl": "blauwe reiger",
     "name_cs": "volavka velká",
-    "name_ru": "цапля"
+    "name_ru": "цапля",
+    "name_pl": "czapla modra"
   },
   {
     "nodeId": 110620,
@@ -5217,7 +5506,8 @@
     "name_tr": "büyük ak balıkçıl",
     "name_nl": "zilverreiger",
     "name_cs": "volavka bílá",
-    "name_ru": "белая цапля"
+    "name_ru": "белая цапля",
+    "name_pl": "czapla biała"
   },
   {
     "nodeId": 36278,
@@ -5235,7 +5525,8 @@
     "name_tr": "çit kuşu",
     "name_nl": "winterkoning",
     "name_cs": "střízlík",
-    "name_ru": "крапивник"
+    "name_ru": "крапивник",
+    "name_pl": "strzyżyk"
   },
   {
     "nodeId": 8895,
@@ -5253,7 +5544,8 @@
     "name_tr": "ebabil kuşu",
     "name_nl": "gierzwaluw",
     "name_cs": "Rorýs obecný",
-    "name_ru": "стриж"
+    "name_ru": "стриж",
+    "name_pl": "jerzyk"
   },
   {
     "nodeId": 43150,
@@ -5271,7 +5563,8 @@
     "name_tr": "kır kırlangıcı",
     "name_nl": "zwaluw",
     "name_cs": "vlaštovka",
-    "name_ru": "ласточка"
+    "name_ru": "ласточка",
+    "name_pl": "jaskółka dymówka"
   },
   {
     "nodeId": 56262,
@@ -5289,7 +5582,8 @@
     "name_tr": "balık kartalı",
     "name_nl": "visarend",
     "name_cs": "orlovrc říční",
-    "name_ru": "скопа"
+    "name_ru": "скопа",
+    "name_pl": "rybołów"
   },
   {
     "nodeId": 46550,
@@ -5307,7 +5601,8 @@
     "name_tr": "albatros",
     "name_nl": "albatros",
     "name_cs": "albatros",
-    "name_ru": "альбатрос"
+    "name_ru": "альбатрос",
+    "name_pl": "albatros"
   },
   {
     "nodeId": 1385931,
@@ -5325,7 +5620,8 @@
     "name_tr": "kadife solucanı",
     "name_nl": "fluweelworm",
     "name_cs": "sametový červ",
-    "name_ru": "бархатный червь"
+    "name_ru": "бархатный червь",
+    "name_pl": "pazurnica"
   },
   {
     "nodeId": 6206,
@@ -5343,7 +5639,8 @@
     "name_tr": "tenya",
     "name_nl": "lintworm",
     "name_cs": "tasemnice",
-    "name_ru": "бычий цепень"
+    "name_ru": "бычий цепень",
+    "name_pl": "tasiemiec"
   },
   {
     "nodeId": 6287,
@@ -5361,7 +5658,8 @@
     "name_tr": "kalp kurdu",
     "name_nl": "hartworm",
     "name_cs": "srdeční červ",
-    "name_ru": "сердечный червь"
+    "name_ru": "сердечный червь",
+    "name_pl": "nicień sercowy"
   },
   {
     "nodeId": 6239,
@@ -5379,7 +5677,8 @@
     "name_tr": "yuvarlak solucan",
     "name_nl": "nematode",
     "name_cs": "háďátko",
-    "name_ru": "нематода"
+    "name_ru": "нематода",
+    "name_pl": "nicień c.elegans"
   },
   {
     "nodeId": 206118,
@@ -5397,7 +5696,8 @@
     "name_tr": "ateş yılan balığı",
     "name_nl": "stekelaal",
     "name_cs": "ohnivý úhoř",
-    "name_ru": "огненный угорь"
+    "name_ru": "огненный угорь",
+    "name_pl": "węgorek ognisty"
   },
   {
     "nodeId": 6087,
@@ -5415,7 +5715,8 @@
     "name_tr": "tatlısu polibi",
     "name_nl": "zoetwaterpoliep",
     "name_cs": "nezmar obecný",
-    "name_ru": "гидра"
+    "name_ru": "гидра",
+    "name_pl": "stułbia"
   },
   {
     "nodeId": 27804,
@@ -5433,7 +5734,8 @@
     "name_tr": "aslan yelesi denizanası",
     "name_nl": "haarkwal",
     "name_cs": "Talířovka obrovská",
-    "name_ru": "волосистая цианея"
+    "name_ru": "волосистая цианея",
+    "name_pl": "meduza festonowa"
   },
   {
     "nodeId": 301549,
@@ -5451,7 +5753,8 @@
     "name_tr": "Yeni Zelanda tarağı",
     "name_nl": "grote mantel",
     "name_cs": "Hřebenatka",
-    "name_ru": "морской гребешок"
+    "name_ru": "морской гребешок",
+    "name_pl": "przegrzebek"
   },
   {
     "nodeId": 55288,
@@ -5469,7 +5772,8 @@
     "name_tr": "vampir kalamar",
     "name_nl": "vampierinktvis",
     "name_cs": "Vampýrovka hlubinná",
-    "name_ru": "адский кальмар-вампир"
+    "name_ru": "адский кальмар-вампир",
+    "name_pl": "wampirzyca piekielna"
   },
   {
     "nodeId": 2109549,
@@ -5487,7 +5791,8 @@
     "name_tr": "tabanca karidesi",
     "name_nl": "pistoolgarnaal",
     "name_cs": "Garnátovka",
-    "name_ru": "креветка-пистолет"
+    "name_ru": "креветка-пистолет",
+    "name_pl": "krewetka pistoletowa"
   },
   {
     "nodeId": 177283,
@@ -5505,7 +5810,8 @@
     "name_tr": "hindistan cevizi yengeci",
     "name_nl": "kokoskrab",
     "name_cs": "kokosový krab",
-    "name_ru": "кокосовый краб"
+    "name_ru": "кокосовый краб",
+    "name_pl": "krab palmowy"
   },
   {
     "nodeId": 6850,
@@ -5523,7 +5829,8 @@
     "name_tr": "at nalı yengeci",
     "name_nl": "degenkrab",
     "name_cs": "ostroreb",
-    "name_ru": "мечехвост"
+    "name_ru": "мечехвост",
+    "name_pl": "skrzypłocz"
   },
   {
     "nodeId": 338475,
@@ -5541,7 +5848,8 @@
     "name_tr": "Karadeniz dere taşemeni",
     "name_nl": "lamprei",
     "name_cs": "mihule",
-    "name_ru": "минога"
+    "name_ru": "минога",
+    "name_pl": "minóg"
   },
   {
     "nodeId": 586820,
@@ -5559,7 +5867,8 @@
     "name_tr": "moren balığı",
     "name_nl": "moeraal",
     "name_cs": "muréna",
-    "name_ru": "мурена"
+    "name_ru": "мурена",
+    "name_pl": "murena"
   },
   {
     "nodeId": 259920,
@@ -5577,7 +5886,8 @@
     "name_tr": "balina köpek balığı",
     "name_nl": "walvishaai",
     "name_cs": "velrybí žralok",
-    "name_ru": "китовая акула"
+    "name_ru": "китовая акула",
+    "name_pl": "rekin wielorybi"
   },
   {
     "nodeId": 8010,
@@ -5595,7 +5905,8 @@
     "name_tr": "turna balığı",
     "name_nl": "snoek",
     "name_cs": "štika",
-    "name_ru": "щука"
+    "name_ru": "щука",
+    "name_pl": "szczupak"
   },
   {
     "nodeId": 8167,
@@ -5613,7 +5924,8 @@
     "name_tr": "tatlısu levreği",
     "name_nl": "baars",
     "name_cs": "okoun",
-    "name_ru": "окунь"
+    "name_ru": "окунь",
+    "name_pl": "okoń żółty"
   },
   {
     "nodeId": 195615,
@@ -5631,7 +5943,8 @@
     "name_tr": "trança balığı",
     "name_nl": "heilbot",
     "name_cs": "Platýs",
-    "name_ru": "палтус"
+    "name_ru": "палтус",
+    "name_pl": "halibut pacyficzny"
   },
   {
     "nodeId": 129044,
@@ -5649,7 +5962,8 @@
     "name_tr": "uçan balık",
     "name_nl": "vliegende vis",
     "name_cs": "létající ryba",
-    "name_ru": "летучая рыба"
+    "name_ru": "летучая рыба",
+    "name_pl": "ryba latająca"
   },
   {
     "nodeId": 8142,
@@ -5667,7 +5981,8 @@
     "name_tr": "tilapia balığı",
     "name_nl": "tilapia",
     "name_cs": "Tilápie",
-    "name_ru": "тиляпия"
+    "name_ru": "тиляпия",
+    "name_pl": "tilapia"
   },
   {
     "nodeId": 81389,
@@ -5685,7 +6000,8 @@
     "name_tr": "kürek balığı",
     "name_nl": "riemvis",
     "name_cs": "Hlístoun",
-    "name_ru": "рыба-ремень"
+    "name_ru": "рыба-ремень",
+    "name_pl": "wstęgor królewski"
   },
   {
     "nodeId": 7950,
@@ -5703,7 +6019,8 @@
     "name_tr": "ringa balığı",
     "name_nl": "haring",
     "name_cs": "sleď",
-    "name_ru": "сельдь"
+    "name_ru": "сельдь",
+    "name_pl": "śledź"
   },
   {
     "nodeId": 29150,
@@ -5721,7 +6038,8 @@
     "name_tr": "orkinos",
     "name_nl": "makreel",
     "name_cs": "makrela",
-    "name_ru": "скумбрия"
+    "name_ru": "скумбрия",
+    "name_pl": "makrela"
   },
   {
     "nodeId": 1317727,
@@ -5739,7 +6057,8 @@
     "name_tr": "tarantula şahini",
     "name_nl": "spinnendoder",
     "name_cs": "hrabalka",
-    "name_ru": "тарантуловый ястреб"
+    "name_ru": "тарантуловый ястреб",
+    "name_pl": "osa pająkowata"
   },
   {
     "nodeId": 44679,
@@ -5757,7 +6076,8 @@
     "name_tr": "ağustos böceği",
     "name_nl": "cicade",
     "name_cs": "cikáda",
-    "name_ru": "цикада"
+    "name_ru": "цикада",
+    "name_pl": "cykada"
   },
   {
     "nodeId": 2716284,
@@ -5775,7 +6095,8 @@
     "name_tr": "dev çıyan",
     "name_nl": "reuzenduizendpoot",
     "name_cs": "Stonoha obrovská",
-    "name_ru": "гигантская сколопендра"
+    "name_ru": "гигантская сколопендра",
+    "name_pl": "skolopendra olbrzymia"
   },
   {
     "nodeId": 50586,
@@ -5793,7 +6114,8 @@
     "name_tr": "gümüşçün",
     "name_nl": "zilvervisje",
     "name_cs": "stříbrná rybka",
-    "name_ru": "чешуйница"
+    "name_ru": "чешуйница",
+    "name_pl": "rybik cukrowy"
   },
   {
     "nodeId": 34613,
@@ -5811,7 +6133,8 @@
     "name_tr": "kene",
     "name_nl": "teek",
     "name_cs": "klíště",
-    "name_ru": "клещ"
+    "name_ru": "клещ",
+    "name_pl": "kleszcz"
   },
   {
     "nodeId": 299642,
@@ -5829,7 +6152,8 @@
     "name_tr": "küre dokumacı örümcek",
     "name_nl": "wielwebspin",
     "name_cs": "Křižák",
-    "name_ru": "паук-кругопряд"
+    "name_ru": "паук-кругопряд",
+    "name_pl": "prządka olbrzymia"
   },
   {
     "nodeId": 280423,
@@ -5847,7 +6171,8 @@
     "name_tr": "kiler örümceği",
     "name_nl": "trilspin",
     "name_cs": "Třesavkova",
-    "name_ru": "паук-долгоножка"
+    "name_ru": "паук-долгоножка",
+    "name_pl": "nasosznik"
   },
   {
     "nodeId": 55084,
@@ -5865,7 +6190,8 @@
     "name_tr": "imparator akrep",
     "name_nl": "keizerschorpioen",
     "name_cs": "Veleštír císařský",
-    "name_ru": "императорский скорпион"
+    "name_ru": "императорский скорпион",
+    "name_pl": "skorpion cesarski"
   },
   {
     "nodeId": 6921,
@@ -5883,7 +6209,8 @@
     "name_tr": "kahverengi münzevi örümcek",
     "name_nl": "vioolspin",
     "name_cs": "Koutník",
-    "name_ru": "коричневый паук-отшельник"
+    "name_ru": "коричневый паук-отшельник",
+    "name_pl": "pustelnik brunatny"
   },
   {
     "nodeId": 475616,
@@ -5901,7 +6228,8 @@
     "name_tr": "hasatçı örümcek",
     "name_nl": "hooiwagen",
     "name_cs": "Sekáč",
-    "name_ru": "паук-сенокосец"
+    "name_ru": "паук-сенокосец",
+    "name_pl": "kosarz"
   },
   {
     "nodeId": 54263,
@@ -5919,7 +6247,8 @@
     "name_tr": "sukeleri",
     "name_nl": "watersalamander",
     "name_cs": "čolek",
-    "name_ru": "тритон"
+    "name_ru": "тритон",
+    "name_pl": "traszka"
   },
   {
     "nodeId": 55661,
@@ -5938,7 +6267,8 @@
     "name_tr": "guguk kuşu",
     "name_nl": "koekoek",
     "name_cs": "kukačka",
-    "name_ru": "кукушка"
+    "name_ru": "кукушка",
+    "name_pl": "kukułka"
   },
   {
     "nodeId": 37039,
@@ -5957,7 +6287,8 @@
     "name_tr": "dalgıçkuşu",
     "name_nl": "duiker",
     "name_cs": "potáplice",
-    "name_ru": "гагара"
+    "name_ru": "гагара",
+    "name_pl": "nur lodowiec"
   },
   {
     "nodeId": 1977160,
@@ -5976,7 +6307,8 @@
     "name_tr": "turna",
     "name_nl": "kraanvogel",
     "name_cs": "jeřáb",
-    "name_ru": "журавль"
+    "name_ru": "журавль",
+    "name_pl": "żuraw"
   },
   {
     "nodeId": 36301,
@@ -5995,7 +6327,8 @@
     "name_tr": "pelikan",
     "name_nl": "pelikaan",
     "name_cs": "pelikán",
-    "name_ru": "пеликан"
+    "name_ru": "пеликан",
+    "name_pl": "pelikan"
   },
   {
     "nodeId": 37087,
@@ -6014,7 +6347,8 @@
     "name_tr": "mavi ayaklı sümsükkuşu",
     "name_nl": "blauwvoetgent",
     "name_cs": "terej modronohý",
-    "name_ru": "голуболапая олуша"
+    "name_ru": "голуболапая олуша",
+    "name_pl": "głuptak"
   },
   {
     "nodeId": 320166,
@@ -6033,7 +6367,8 @@
     "name_tr": "tarak jölesi",
     "name_nl": "ribkwal",
     "name_cs": "žebernatka",
-    "name_ru": "гребневик"
+    "name_ru": "гребневик",
+    "name_pl": "żebropław"
   },
   {
     "nodeId": 1914524,
@@ -6052,7 +6387,8 @@
     "name_tr": "noel ağacı solucanı",
     "name_nl": "kerstboomworm",
     "name_cs": "vánoční stromeček červ",
-    "name_ru": "червь рождественская ёлка"
+    "name_ru": "червь рождественская ёлка",
+    "name_pl": "wieloszczet"
   },
   {
     "nodeId": 80829,
@@ -6071,7 +6407,8 @@
     "name_tr": "dev midye",
     "name_nl": "reuzenschelp",
     "name_cs": "zévа obrovská",
-    "name_ru": "гигантская тридакна"
+    "name_ru": "гигантская тридакна",
+    "name_pl": "małża olbrzymia"
   },
   {
     "nodeId": 52365,
@@ -6090,7 +6427,8 @@
     "name_tr": "tatlı su midyesi",
     "name_nl": "zoetwatermossel",
     "name_cs": "říční mlž",
-    "name_ru": "речная мидия"
+    "name_ru": "речная мидия",
+    "name_pl": "szczeżuja"
   },
   {
     "nodeId": 2775238,
@@ -6109,7 +6447,8 @@
     "name_tr": "tavus kuşu örümceği",
     "name_nl": "pauwspin",
     "name_cs": "pavoukovec páví",
-    "name_ru": "паук-павлин"
+    "name_ru": "паук-павлин",
+    "name_pl": "skakun"
   },
   {
     "nodeId": 2815683,
@@ -6128,7 +6467,8 @@
     "name_tr": "yaprak böceği",
     "name_nl": "wandelend blad",
     "name_cs": "lupenitka",
-    "name_ru": "листовидка"
+    "name_ru": "листовидка",
+    "name_pl": "liściec"
   },
   {
     "nodeId": 130591,
@@ -6147,7 +6487,8 @@
     "name_tr": "fener sineği",
     "name_nl": "lantaarnvlieg",
     "name_cs": "světluška",
-    "name_ru": "пятнистая фонарница"
+    "name_ru": "пятнистая фонарница",
+    "name_pl": "latarnik"
   },
   {
     "nodeId": 96889,
@@ -6166,7 +6507,8 @@
     "name_tr": "sardalya",
     "name_nl": "sardine",
     "name_cs": "sardinka",
-    "name_ru": "сардина"
+    "name_ru": "сардина",
+    "name_pl": "sardynka"
   },
   {
     "nodeId": 71769,
@@ -6185,6 +6527,7 @@
     "name_tr": "turna balığı",
     "name_nl": "snoekelrits",
     "name_cs": "štikovec",
-    "name_ru": "щуковидный гольян"
+    "name_ru": "щуковидный гольян",
+    "name_pl": "jelec"
   }
 ]
