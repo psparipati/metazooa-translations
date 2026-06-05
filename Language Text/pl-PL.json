@@ -1,0 +1,179 @@
+{
+  "translation": {
+    "Metazooa": {
+      "species": {
+        "generic": "tajemniczego zwierzęcia",
+        "unique": "jedno tajemnicze zwierzę",
+        "indefinite": "jakieś tajemnicze zwierzę",
+        "definite": "to tajemnicze zwierzę",
+        "demonstrative": "to"
+      },
+      "answer": "człowiek",
+      "kingdom": {
+        "generic": "zwierzęta",
+        "concord": "a",
+        "unique": "jedno",
+        "definite": "te"
+      },
+      "game": "Metazooa",
+      "mystery": { "singular": "zagadka", "plural": "zagadki" },
+      "menagerie": "zoo"
+    },
+    "Metaflora": {
+      "species": {
+        "generic": "tajemniczej rośliny",
+        "unique": "jedna tajemnicza roślina",
+        "indefinite": "jakąś tajemniczą roślinę",
+        "definite": "tę tajemniczą roślinę",
+        "demonstrative": "tę"
+      },
+      "answer": "pomidor",
+      "kingdom": {
+        "generic": "rośliny",
+        "concord": "e",
+        "unique": "jedna",
+        "definite": "te"
+      },
+      "game": "Metaflora",
+      "mystery": { "singular": "zagadka", "plural": "zagadki" },
+      "menagerie": "ogród"
+    },
+    "keywords": {
+      "remaining": "pozostałe",
+      "Click": "Kliknij",
+      "Tap": "Stuknij"
+    },
+    "home": {
+      "0": {
+        "0": "Królestwo zwierząt (<i>Metazoa</i>, po grecku) pełne jest naszych krewnych - niektórzy są bliżsi, inni dalsi. Metazooa to gra, która sprawdza, jak dobrze znasz nasze rozległe drzewo genealogiczne.",
+        "1": "Drzewo genealogiczne królestwa roślin (które naukowcy nazywają <i>Viridiplantae</i>) jest szerokie i piękne... ale też skomplikowane! Metaflora to gra, która sprawdza, jak dobrze potrafisz poruszać się po jego liściastych gałęziach."
+      },
+      "1": "Twoim celem jest odkrycie gatunku <b>{{species.generic}}</b> na dziś w jak najmniejszej liczbie prób. Błędne odpowiedzi zawężą wynik według rangi taksonomicznej (królestwo, typ, klasa, rząd itd.). Im więcej wspólnego ma twoja odpowiedź z właściwą, tym więcej dowiesz się o tym gatunku.",
+      "2": "Na przykład, jeśli odpowiedź brzmi „{{answer}}”, twoje próby mogą utworzyć drzewo podobne do tego:",
+      "3": "Każdego dnia do odgadnięcia jest tylko {{species.unique}}, ale masz na to {{MAX_GUESSES}} prób! Nowa gra rozpocznie się o <b>{{nextGame}}</b>.",
+      "4": "Już odkryłeś dzisiejszą zagadkę?",
+      "5": "Graj"
+    },
+    "game": {
+      "0": "Pokaż tabelę",
+      "1": "Odpowiedź i {{guess}} mają to wspólne.",
+      "2": "{{click}}, aby dowiedzieć się więcej",
+      "3": "Znajdź dzisiejszą zagadkę!",
+      "4": "Wygrywasz! Odpowiedź brzmi <b>{{answer}}</b>."
+    },
+    "modal": {
+      "0": {
+        "0": "Wygrywasz!",
+        "1": "Brak dalszych prób."
+      },
+      "2": "Udostępnij swój wynik albo zagraj w trybie ćwiczeń!",
+      "3": "Zagraj w inną grę od"
+    },
+    "share": {
+      "0": "Udostępnij",
+      "1": "Udostępniono!",
+      "2": "Skopiowano!",
+      "3": "Nie udało się udostępnić wyniku."
+    },
+    "table": {
+      "0": "Ranga",
+      "1": "Nazwa",
+      "2": "Próby",
+      "3": "Wskazówki",
+      "4": "Wróć do drzewa"
+    },
+    "errors": {
+      "0": "Brak błędu",
+      "1": "Nie znaleziono \"{{guess}}\" w bazie danych",
+      "2": "Już odgadłeś \"{{guess}}\"",
+      "3": "Odpowiedź brzmi \"{{guess}}\"",
+      "4": "Czy chodziło Ci o \"{{guess}}\"?"
+    },
+    "button": {
+      "0": "Wejdź do {{menagerie}}!"
+    },
+    "footer": {
+      "0": "od Trainwreck Labs",
+      "1": "Dołącz do naszego serwera Discord!",
+      "2": "Masz pytanie?",
+      "3": "Sprawdź FAQ"
+    },
+    "hint": {
+      "0": "Potrzebujesz podpowiedzi? Wymień 3 próby, aby odkryć rangę!",
+      "1": "Podpowiedź"
+    },
+    "wikipedia": {
+      "0": "Z Wikipedii",
+      "1": {
+        "Show": "Pokaż obraz",
+        "Hide": "Ukryj obraz"
+      }
+    },
+    "guesser": {
+      "0": "Zgadnij dowolny gatunek, aby zacząć!",
+      "1": "Wpisz kolejną odpowiedź.",
+      "2": "Zgaduj"
+    },
+    "statistics": {
+      "0": "Statystyki",
+      "1": "Gry",
+      "2": "Seria",
+      "3": "Rozgrywki",
+      "4": "Wygrane",
+      "5": "Obecna",
+      "6": "Maks.",
+      "7": "Liczba prób użytych przy każdej wygranej. Kolor słupka oznacza, jak blisko średni typ był odpowiedzi."
+    },
+    "settings": {
+      "0": "Ustawienia",
+      "1": "Zgadywanie po nazwach naukowych",
+      "2": "Język",
+      "3": "Angielski",
+      "4": "Tryb ciemny"
+    },
+    "practice": {
+      "0": "Ćwiczenia",
+      "1": "Graj w {{game}} bez ograniczeń!",
+      "2": "Nowe ćwiczenie",
+      "3": "Wznów ćwiczenie"
+    },
+    "links": {
+      "0": "Linki",
+      "1": "Najczęściej zadawane pytania",
+      "2": "Polityka prywatności"
+    },
+    "twl": {
+      "0": "Konto",
+      "1": "Połącz <b>{{game}}</b> ze swoim kontem TWL",
+      "2": "Zaloguj przez Google",
+      "3": "Zaloguj przez Discord",
+      "4": "Zapisz się do newslettera Trainwreck Labs",
+      "5": "Usuń reklamy",
+      "6": "Rozłącz",
+      "7": "Członek klubu"
+    },
+    "faq": {
+      "0": "FAQ",
+      "1": {
+        "q": "Na jakiej podstawie wybrano {{kingdom.generic}} zgadywane w grze?",
+        "a": "W grze {{game}} {{kingdom.generic}} wybrano pod względem tego jak dobrze są znane ludziom oraz różnorodności gatunków dla urozmaicenia rozrywki."
+      },
+      "2": {
+        "q": "Gra się myli! Wikipedia inaczej klasyfikuje wpisywane przezemnie {{kingdom.generic}}!",
+        "a": "Klasyfikacje użyte w grze opierają się na taksonomii NCBI, która jest najczęściej używaną taksonomią dla zwierząt, ale nie jedyną. Taksonomia Wikipedii również jest szeroko stosowana i jest możliwe, że obie taksonomie nie zgadzają się w klasyfikacji danego gatunku."
+      },
+      "3": {
+        "q": "Dlaczego w grze nie ma gromady „gadów” albo „Reptilia”?",
+        "a": "Choć niektóre źródła, takie jak Wikipedia, używają klasyfikacji gromadą Reptilia, to taksonomia NCBI tego nie robi. Zamiast tego używa kladu Sauropsida, który obejmuje wszystkie gady i ptaki. Dzieje się tak dlatego, że niektóre zwierzęta powszechnie uznawane za gady są bliżej spokrewnione z ptakami niż z innymi gadami. Na przykład krokodyle są bliżej spokrewnione z ptakami niż z jaszczurkami."
+      },
+      "4": {
+        "q": "Dlaczego można zgadnąć „kot domowy”, ale nie ma „psa domowego”?",
+        "a": "To dlatego, że kot domowy ma własny gatunek („Felis catus”), ale pies domowy jest zwykle klasyfikowany jako podgatunek wilka („Canis lupus familiaris”)."
+      },
+      "5": {
+        "q": "Czy {{game}} ma politykę prywatności?",
+        "a": "Kliknij ten link, aby zobaczyć <a href=\"/privacy-policy\" class=\"underline\">politykę prywatności</a> {{game}}."
+      }
+    }
+  }
+}
