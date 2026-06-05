@@ -1,5 +1,7 @@
 [
   { "language": "en", "name": "alfalfa", "alts": ["afalfa"] },
+  { "language": "en", "name": "ricin", "alts": ["castor bean"] },
+  { "language": "en", "name": "sycamore", "alts": ["plane"] },
   { "language": "en", "name": "anemone", "alts": ["sea anemone"] },
   { "language": "en", "name": "sea turtle", "alts": ["leatherback"] },
   { "language": "en", "name": "bok choy", "alts": ["turnip"] },
@@ -94,6 +96,7 @@
     "alts": ["bell pepper", "capsicum"]
   },
   { "language": "es", "name": "bogavante", "alts": ["langosta"] },
+  { "language": "es", "name": "fletán", "alts": ["halibut"] },
   {
     "language": "es",
     "name": "tamarino león dorado",
@@ -835,6 +838,8 @@
   { "language": "cs", "name": "velryba beluga", "alts": ["Běluha severní"] },
   { "language": "cs", "name": "Aardvark", "alts": ["Hrabáč kapský"] },
   { "language": "cs", "name": "pangolin", "alts": ["Luskouni"] },
+  { "language": "cs", "name": "šnek", "alts": ["hlemýžď zahradní"] },
+  { "language": "cs", "name": "hovnivál", "alts": ["vruboun"] },
   {
     "language": "cs",
     "name": "motýl monarcha",
@@ -1377,5 +1382,21 @@
     "name": "szczeżuja",
     "alts": ["małż słodkowodny", "skójka"]
   },
-  { "language": "pl", "name": "liściec", "alts": ["straszyk"] }
+  { "language": "pl", "name": "liściec", "alts": ["straszyk"] },
+  {
+    "language": "de",
+    "name": "Maorifruchttaube",
+    "alts": ["Neuseeland-Fruchttaube"]
+  },
+  { "language": "fr", "name": "scinque", "alts": ["tiliqua"] },
+  { "language": "hu", "name": "vadászmenyét", "alts": ["vadászgörény"] },
+  { "language": "de", "name": "Dicke Bohne", "alts": ["Ackerbohne"] },
+  { "language": "de", "name": "Großer Tümmler", "alts": ["Delfin", "Delphin"] },
+  { "language": "de", "name": "Zirkade", "alts": ["Singzirkade"] },
+  { "language": "de", "name": "Persimone", "alts": ["Kaki", "Sharonfrucht"] },
+  {
+    "language": "de",
+    "name": "Baobab",
+    "alts": ["Afrikanischer Affenbrotbaum"]
+  }
 ]
