@@ -706,12 +706,12 @@
   { "language": "te", "name": "అనాసపండు", "alts": ["పైనాపిల్"] },
   { "language": "te", "name": "అత్తిపత్తి", "alts": ["సిగ్గాకు"] },
   { "language": "te", "name": "కోరిందపండు", "alts": ["రాస్ప్బెర్రీ"] },
-  { "language": "te", "name": "పట్టి", "alts": ["కాటన్"] },
+  { "language": "te", "name": "పత్తి", "alts": ["కాటన్"] },
   { "language": "te", "name": "సోంపు", "alts": ["ఫెన్నెల్"] },
   { "language": "te", "name": "ఉసిరికాయ", "alts": ["ఆమ్లా"] },
   { "language": "te", "name": "సూర్యకాంతం పువ్వు", "alts": ["ప్రొద్దు తిరుగుడు"] },
   { "language": "te", "name": "మాదీఫలం", "alts": ["సిట్రాన్"] },
-  { "language": "te", "name": "సాధారణ దుంప", "alts": ["యామ్"] },
+  { "language": "te", "name": "కంద", "alts": ["యామ్"] },
   { "language": "te", "name": "డాఫడిల్", "alts": ["నార్సిసస్"] },
   { "language": "te", "name": "మాచిపత్రి", "alts": ["మోషిపత్రి"] }
 ]
