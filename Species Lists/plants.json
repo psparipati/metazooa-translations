@@ -1,17 +1,5 @@
 [
   {
-    "comments": [
-      "A lot of the translations below are anglicanized. This is because Telugu has no words for some crops, flowers, and most trees.",
-      "Check nodes 3635, 171929, 4615, 72402, 32247, 3981, 3752, 141191, 135518, 3435, 72332, 128608, 105181, 4232, 4072, 3710, 171251, 54855 as these have two possible translations you might want to use.",
-      "4686 has three different translations, so it's up to whoever is reading to decide which translation to use.",
-      "40922, 2849586, 271192 have the same translation, but you can anglicanize them, so alternatives exist.",
-      "34199 & 39510 have the same name in Telugu, but one is an 'American' variety.",
-      "146995 and 98504 are so closely related (as far as Telugu is concerned) that I removed పువ్వు from one.",
-      "For 1041245, I decided to translate from Spanish to Telugu instead of English to Telugu",
-      "Use Google Translate Text-to-Speech to get a rough idea of what these will sound like."
-    ]
-  },
-  {
     "nodeId": 3755,
     "scientific_name": "Prunus dulcis",
     "name": "almond",
@@ -43,7 +31,7 @@
     "name_ru": "яблоко",
     "name_it": "melo",
     "name_hu": "alma",
-    "name_te": "ఆపిల్ - సీమరేగిపండు"
+    "name_te": "సీమరేగిపండు"
   },
   {
     "nodeId": 36596,
@@ -77,7 +65,7 @@
     "name_ru": "спаржа",
     "name_it": "asparago",
     "name_hu": "spárga",
-    "name_te": "తోటతేగ - పిల్లితెగ - పిచ్చుకతెగ"
+    "name_te": "తోటతేగ"
   },
   {
     "nodeId": 3435,
@@ -94,7 +82,7 @@
     "name_ru": "авокадо",
     "name_it": "avocado",
     "name_hu": "avokádó",
-    "name_te": "వెన్నపండు - అవకాడో"
+    "name_te": "వెన్నపండు"
   },
   {
     "nodeId": 13216,
@@ -213,7 +201,7 @@
     "name_ru": "кардамон",
     "name_it": "cardamomo",
     "name_hu": "kardamom",
-    "name_te": "యాలకులు - కార్దమం"
+    "name_te": "యాలకులు"
   },
   {
     "nodeId": 171929,
@@ -230,7 +218,7 @@
     "name_ru": "кешью",
     "name_it": "anacardo",
     "name_hu": "kesudió",
-    "name_te": "కాజు - జీడిపప్పు"
+    "name_te": "కాజు"
   },
   {
     "nodeId": 3983,
@@ -315,7 +303,7 @@
     "name_ru": "корица",
     "name_it": "cannella",
     "name_hu": "fahéj",
-    "name_te": "దాల్చిన చెక్క - శ్రీలంక దాల్చిన చెక్క"
+    "name_te": "దాల్చిన చెక్క"
   },
   {
     "nodeId": 13894,
@@ -519,7 +507,7 @@
     "name_ru": "конопля",
     "name_it": "canapa",
     "name_hu": "kender",
-    "name_te": "జనుము - జనపనార"
+    "name_te": "జనపనార"
   },
   {
     "nodeId": 141191,
@@ -536,7 +524,7 @@
     "name_ru": "хна",
     "name_it": "henné",
     "name_hu": "henna",
-    "name_te": "గోరింటాకు - హెన్న"
+    "name_te": "గోరింటాకు"
   },
   {
     "nodeId": 3486,
@@ -740,7 +728,7 @@
     "name_ru": "чёрная горчица",
     "name_it": "senape nera",
     "name_hu": "mustár",
-    "name_te": "ఆవాలు - నల్ల ఆవాలు"
+    "name_te": "నల్ల ఆవాలు"
   },
   {
     "nodeId": 51953,
@@ -859,7 +847,7 @@
     "name_ru": "груша",
     "name_it": "pero",
     "name_hu": "körte",
-    "name_te": "బేరి - పియర్"
+    "name_te": "ప ేయర్"
   },
   {
     "nodeId": 13493,
@@ -1029,7 +1017,7 @@
     "name_ru": "гевея",
     "name_it": "albero della gomma",
     "name_hu": "kaucsukfa",
-    "name_te": "రబ్బరు - రబ్బర్ చెట్టు"
+    "name_te": "రబ్బర్"
   },
   {
     "nodeId": 4550,
@@ -1131,7 +1119,7 @@
     "name_ru": "подсолнух",
     "name_it": "girasole",
     "name_hu": "napraforgó",
-    "name_te": "సూర్యకాంతం పువ్వు - ప్రొద్దు తిరుగుడు"
+    "name_te": "సూర్యకాంతం పువ్వు"
   },
   {
     "nodeId": 4072,
@@ -1148,7 +1136,7 @@
     "name_ru": "болгарский перец",
     "name_it": "peperone",
     "name_hu": "paprika",
-    "name_te": "కూరమిరప - కాప్సికం"
+    "name_te": "కూరమిరప"
   },
   {
     "nodeId": 4460,
@@ -1471,7 +1459,7 @@
     "name_ru": "ананас",
     "name_it": "ananas",
     "name_hu": "ananász",
-    "name_te": "అనాసపండు - పైనాపిల్"
+    "name_te": "అనాసపండు"
   },
   {
     "nodeId": 38942,
@@ -1760,7 +1748,7 @@
     "name_ru": "мимоза стыдливая",
     "name_it": "sensitiva",
     "name_hu": "mimóza",
-    "name_te": "అత్తిపత్తి - సిగ్గాకు"
+    "name_te": "అత్తిపత్తి"
   },
   {
     "nodeId": 72402,
@@ -1811,7 +1799,7 @@
     "name_ru": "цитрон",
     "name_it": "cedro",
     "name_hu": "keserű citrom",
-    "name_te": "మాదీఫలం - సిట్రాన్"
+    "name_te": "మాదీఫలం"
   },
   {
     "nodeId": 396733,
@@ -2134,7 +2122,7 @@
     "name_ru": "малина",
     "name_it": "lampone",
     "name_hu": "málna",
-    "name_te": "కోరిందపండు - రాస్ప్బెర్రీ"
+    "name_te": "కోరిందపండు"
   },
   {
     "nodeId": 13750,
@@ -2474,7 +2462,7 @@
     "name_ru": "хлопок",
     "name_it": "cotone",
     "name_hu": "gyapot",
-    "name_te": "పట్టి - కాటన్"
+    "name_te": "పట్టి"
   },
   {
     "nodeId": 3627,
@@ -2593,7 +2581,7 @@
     "name_ru": "ямс",
     "name_it": "igname",
     "name_hu": "jamszgyökér",
-    "name_te": "యామ్ - సాధారణ దుంప"
+    "name_te": "సాధారణ దుంప"
   },
   {
     "nodeId": 3621,
@@ -2780,7 +2768,7 @@
     "name_ru": "нарцисс",
     "name_it": "narciso",
     "name_hu": "nárcisz",
-    "name_te": "డాఫడిల్ - నార్సిసస్"
+    "name_te": "డాఫడిల్"
   },
   {
     "nodeId": 97021,
@@ -2950,7 +2938,7 @@
     "name_ru": "фенхель",
     "name_it": "finocchio",
     "name_hu": "édeskömény",
-    "name_te": "సోంపు - ఫెన్నెల్"
+    "name_te": "సోంపు"
   },
   {
     "nodeId": 40922,
@@ -2967,7 +2955,7 @@
     "name_ru": "укроп",
     "name_it": "aneto",
     "name_hu": "kapor",
-    "name_te": "సోంపు - దిల్ల్"
+    "name_te": "దిల్ల్"
   },
   {
     "nodeId": 36592,
@@ -3120,7 +3108,7 @@
     "name_ru": "анис",
     "name_it": "anice",
     "name_hu": "ánizs",
-    "name_te": "సోంపు - అనిసె"
+    "name_te": "అనాసపువ్వు"
   },
   {
     "nodeId": 4298,
@@ -3426,7 +3414,7 @@
     "name_ru": "полынь",
     "name_it": "assenzio",
     "name_hu": "üröm",
-    "name_te": "స్వీట్ మార్జోరామ్ - సదరన్‌వుడ్"
+    "name_te": "మాచిపత్రి"
   },
   {
     "nodeId": 4202,
@@ -3460,7 +3448,7 @@
     "name_ru": "крыжовник",
     "name_it": "ribes",
     "name_hu": "egres",
-    "name_te": "ఉసిరికాయ - ఆమ్లా"
+    "name_te": "ఉసిరికాయ"
   },
   {
     "nodeId": 32224,
